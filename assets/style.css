@@ -2,7 +2,7 @@ body {margin: 3% auto; background: #f8f8f6; color: #222222; font-family: -apple-
 a {color: #555555; text-decoration: none;}
 a.image{border-bottom: 0;}
 a:hover {color: #4297B3;}
-title {color: greenyellow}
+h1 {color: lightgreen}
 h3 {color: #696969}
 canvas {margin: auto; width:100%}
 
