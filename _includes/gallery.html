@@ -1,4 +1,4 @@
-{% assign tags = "Teaching Tools,Student Work,Miscellany" | split: "," %}
+{% assign tags = "Math,Music,Miscellany" | split: "," %}
 
 {% for tag in tags %}
 	{% assign posts = site.gallery | where: "tag", tag %}
