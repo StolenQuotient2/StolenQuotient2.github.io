@@ -1,13 +1,3 @@
-names: "lizzie,brian,sammy,bethanne,roby,ben"
-lizzie:
-  url: https://sites.google.com/view/lizziebuchanan/
-brian:
-  url: https://math.dartmouth.edu/~bmintz/
-sammy:
-  url: https://sammy-luo.github.io/
-bethanne:
-  url: https://sites.google.com/view/bethannecastellano/home
-roby:
-  url: https://www2.math.uconn.edu/~troby/
-ben:
-  url: https://math.dartmouth.edu/~badenbaum/
+names: "alex"
+alex:
+  url: https://alexandernwilson.com
