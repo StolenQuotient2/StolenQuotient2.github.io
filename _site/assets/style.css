@@ -1,6 +1,6 @@
 /* THIS IS THE FILE THAT CONTROLS EVERYTHING */
 body {margin: 3% auto; background: #222222; color: #f8f8f6; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 18px; line-height: 1.4; text-shadow: none; max-width: 90%;}
-a {color: #57a664; text-decoration: none;}
+a {color: #57a664; text-decoration: none; text-shadow: none;}
 a.image{border-bottom: 0;}
 a:hover {color: lightgreen;}
 h1 {color: rgb(73, 195, 73); text-shadow: none;}
