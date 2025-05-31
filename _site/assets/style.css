@@ -4,7 +4,7 @@ a {color: #57a664; text-decoration: none;}
 a.image{border-bottom: 0;}
 a:hover {color: lightgreen;}
 h1 {color: rgb(73, 195, 73);}
-h3 {color: #90aa97;}
+h3 {color: #f10000;} 
 canvas {margin: auto; width:100%}
 
 /* For Phone */
