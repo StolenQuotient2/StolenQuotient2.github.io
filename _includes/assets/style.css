@@ -146,12 +146,12 @@ table.agenda td {
   color: inherit;
 }
 
-/* details {
-
-} */
+details {
+ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif
+}
 
 details > summary {
-  font-size: 36pt;
+  font-size: 24pt;
   color: rgb(138, 255, 136)
 }
 
