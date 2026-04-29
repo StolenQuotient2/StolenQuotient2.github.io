@@ -1,0 +1,27 @@
+---
+layout: default
+title: Obsidian
+---
+
+This is a wrapper page for the obsidian notebook I use to work on Misfits. 
+
+<ul id="docs">
+  {% for doc in site.obsidian %}
+    <li class="doc {{ doc.category }}">
+      <div class="post-header"><a href="{{ post.url }}">{{ doc.title }}</a><span class="category">
+        Misfits
+        <!-- {% if post.category == "media" %}
+          Media
+        {% endif %}
+        {% if post.category == "magic" %}
+          Magic: the Gathering
+        {% endif %}
+        {% if post.category == "math" %}
+          Math
+        {% endif %} -->
+      </span>
+      <span class="date">{{doc.date | date: "%b %d, %Y" }}</span></div>
+      <div class="excerpt">{{ doc.excerpt }}</div>
+    </li>
+  {% endfor %}
+</ul>
