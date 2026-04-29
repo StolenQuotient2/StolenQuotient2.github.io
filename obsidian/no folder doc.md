@@ -8,4 +8,4 @@ this is a document not in a folder.
 
 it links to [The stuff]({% link obsidian/the-stuff.md %})
 
-UPDATING 22222222333334444
+UPDATING 2
