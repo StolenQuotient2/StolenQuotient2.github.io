@@ -10,4 +10,3 @@ This links to [The stuff]({% link obsidian/the-stuff.md %})
 
 This links to [no folder doc]({% link obsidian/no-folder-doc.md %}). 
 
-UPDATING 222333
