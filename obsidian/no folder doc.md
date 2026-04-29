@@ -2,11 +2,11 @@
 layout: bare
 share: "true"
 ---
-why wont this work
-
+why wont this work aaaaaa
+ 
 this is a document not in a folder. 
 
-it links to [The stuff]({% link obsidian/The%20stuff.md %})
+it links to [The stuff]({% link {{site.url}}/obsidian/The%20stuff.md %})
 
 upd21
 
