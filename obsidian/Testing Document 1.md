@@ -9,7 +9,7 @@ regex shenanigans
 
 This is a bunch of stuff for testing Enveloppe uploading to github pages. 
 
-This links to [$1]({% link obsidian/$1.md %})
+This links to [[./The stuff|The stuff]]
 
-This links to [$1]({% link obsidian/$1.md %}). 
-upd212
+This links to [[./no folder doc|no folder doc]]. 
+upd212asdadsa
