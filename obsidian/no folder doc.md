@@ -6,8 +6,8 @@ why wont this work
 
 this is a document not in a folder. 
 
-it links to [$1]({% link obsidian/$4.md %})
+it links to [$1]({% link obsidian/$1.md %})
 
-UPDATING 256756712
+UPDATING 25675671211111112111
 
 regex shenanigans 
