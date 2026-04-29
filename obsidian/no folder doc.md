@@ -6,6 +6,6 @@ why wont this work
 
 this is a document not in a folder. 
 
-it links to [The stuff]({% link obsidian/the-stuff.md %})
+it links to [The stuff](./The%20stuff.md)
 
-UPDATING 2
+UPDATING 2567567
