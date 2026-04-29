@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bare
 share: "true"
 ---
 UPDATING 67657567123123

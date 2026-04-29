@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bare
 share: "true"
 ---
 why wont this work
