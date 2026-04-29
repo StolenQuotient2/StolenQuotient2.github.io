@@ -2,6 +2,6 @@
 layout: default
 share: "true"
 ---
-UPDATING 22222222222
+UPDATING 2222222222233333
 
-This has a link to [Testing Document 1](./Testing%20Document%201.md). 
+This has a link to [Testing Document 1]({% link obsidian/Testing%20Document%201 %}). 
