@@ -2,10 +2,10 @@
 layout: bare
 share: "true"
 ---
-upd121212
+upd1212
 why wont this work
 
-This has a link to [[./Testing Document 1|Testing Document 1]]. 
+This has a link to [Testing Document 1]({% link obsidian/Testing%20Document%201.md %}). 
 
 
 regex shenanigans idfk
