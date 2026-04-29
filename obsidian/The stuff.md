@@ -2,7 +2,7 @@
 layout: bare
 share: "true"
 ---
-UPDATING 67657567123123
+UPDATING 676575
 why wont this work
 
-This has a link to [Testing Document 1]({% link obsidian/Testing%20Document%201.md %}). 
+This has a link to [Testing Document 1](./Testing%20Document%201.md). 
