@@ -5,6 +5,6 @@ share: "true"
 
 this is a document not in a folder. 
 
-it links to [The stuff]({% link obsidian/The%20stuff %})
+it links to [The stuff]({% link obsidian/The%20stuff.md %})
 
-UPDATING 2222222233333
+UPDATING 22222222333334444
