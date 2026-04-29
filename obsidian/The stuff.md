@@ -2,10 +2,10 @@
 layout: bare
 share: "true"
 ---
-UPDATING 67657521111111
+upd
 why wont this work
 
-This has a link to [$1]({% link obsidian/$1.md %}). 
+This has a link to /[$1]({% link obsidian/$1.md %})/. 
 
 
 regex shenanigans 
