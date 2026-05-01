@@ -1,8 +1,6 @@
 ---
 share: "true"
 layout: misfits
-title: Rulebook
-mess_we_made: mess we made
 ---
 
 Misfits is a TTRPG by Sam Thiel
