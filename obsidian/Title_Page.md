@@ -1,7 +1,6 @@
 ---
 share: "true"
 layout: misfits
-title:
 ---
 
 Misfits is a TTRPG by Sam Thiel
