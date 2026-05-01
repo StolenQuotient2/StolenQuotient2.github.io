@@ -13,7 +13,7 @@
 <body>
     <header>       
         <h1><i></i><a href="{{site.url}}/misfits">MISFITS</a> {% if page.title!="" %}— {{page.title}}{%endif%}</i></h1> 
-        <div id="mess_we_made">{% if page.mess_we_made!="" %} <h3>Maybe the real magic was the <u>[{{page.mess_we_made}}]</u> along the way.</h3>{%else%}<h3>Maybe the real magic was the mess we made along the way.</h3>{%endif%}</div>
+        <div id="mess_we_made">{% if page.mess_we_made!="" %} <h3>Maybe the real magic was the {{page.mess_we_made}} along the way.</h3>{%else%}<h3>Maybe the real magic was the mess we made along the way.</h3>{%endif%}</div>
     </header>
 
     {% assign caption = page.portrait_caption %}
