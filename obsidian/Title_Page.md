@@ -1,7 +1,8 @@
 ---
 share: "true"
-layout: bare
+layout: misfits
 title: Misfits Rulebook
+mess_we_made: rules we wrote
 ---
 # ***MISFITS***
 ### *Maybe the real magic was the mess we made along the way*
