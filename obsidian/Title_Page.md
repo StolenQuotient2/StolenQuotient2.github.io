@@ -2,7 +2,7 @@
 share: "true"
 layout: misfits
 title: Misfits Rulebook
-mess_we_made: rules we wrote
+mess_we_made: mess we made
 ---
 # ***MISFITS***
 ### *Maybe the real magic was the mess we made along the way*
