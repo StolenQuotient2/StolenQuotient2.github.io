@@ -12,8 +12,8 @@
 </head>
 <body>
     <header>       
-        <a href="{{site.url}}/misfits"><h1>Misfits: {{page.title}}</h1></a>
-        <div id="mess_we_made">{% if page.mess_we_made!="" %} Maybe the real magic was the <h2>{{page.mess_we_made}}</h2> along the way. {% else %} Maybe the real magic was the mess we made along the way. {%endif%}</div>
+        <a href="{{site.url}}/misfits"><h1><i>MISFITS</h1></i></a> {% if page.title!="" %}<h1>— {{page.title}}</h1> {%endif%}
+        <div id="mess_we_made">{% if page.mess_we_made!="" %} <h3>Maybe the real magic was the <i>{{page.mess_we_made}}</i> along the way.</h3> {% else %} <h3>Maybe the real magic was the mess we made along the way.</h3> {%endif%}</div>
     </header>
 
     {% assign caption = page.portrait_caption %}
