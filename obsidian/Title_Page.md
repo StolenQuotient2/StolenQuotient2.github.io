@@ -25,7 +25,7 @@ Maybe you’re a demigod revolutionist who relies on luck and raw strength to po
 
 ## **On this website:**
 
-This website is a series of linked subpages of my (Sam Thiel's) personal site. These subpages are uploaded from an Obsidian notebook using the Enveloppe community plugin. 
+This website is a series of linked subpages of my (Sam Thiel's) personal site. These subpages are uploaded from an Obsidian notebook using the Enveloppe community plugin. These pages are adapted from a single Google Doc (which was over 100 pages long before conversion), and so the terms "document" and "book" may appear in these webpages—they refer to the collection of webpages. 
 
 The Misfits rules are posted here for easy access for my playtesters. The rules of Misfits posted here are a living document, and are the early stages of an eventual book and dedicated webpage for this game. They are also intended to be accessed primarily by my playtesters for the sake of playtesting the game. 
 
