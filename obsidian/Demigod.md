@@ -8,4 +8,4 @@ Testing Again without slugging 2
 
 <!-- HTML COMMENT --> 
 
- %% REGULAR COMMENT %%
+ <!-- $1 -->
