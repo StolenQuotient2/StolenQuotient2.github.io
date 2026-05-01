@@ -1,6 +1,7 @@
 ---
 share: "true"
 layout: misfits
+title:
 ---
 
 Misfits is a TTRPG by Sam Thiel
@@ -9,6 +10,7 @@ Version: Alpha-Obsidian 4.5.1
 
 The content in this webpage, and the pages linked to it, are part of the Misfits TTRPG.
 Copyright: Sam Thiel © 2026 
+
 
 ## **Introduction**
 
