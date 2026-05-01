@@ -1,15 +1,13 @@
 ---
 share: "true"
 layout: misfits
-title: Misfits Rulebook
+title: Rulebook
 mess_we_made: mess we made
 ---
-# ***MISFITS***
-### *Maybe the real magic was the mess we made along the way*
 
-by Sam Thiel
+Misfits is a TTRPG by Sam Thiel
 
-Version: Alpha-Obsidian 4.4.29
+Version: Alpha-Obsidian 4.5.1
 
 The content in this webpage, and the pages linked to it, are part of the Misfits TTRPG.
 Copyright: Sam Thiel © 2026 
