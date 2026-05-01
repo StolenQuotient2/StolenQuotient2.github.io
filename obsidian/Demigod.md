@@ -11,6 +11,8 @@ Demigods start with the following:
 - 5 maximum Focus
 - The *Implicit Divinity* ability. 
 
+---
+
 ### Demigod Abilities:
 
 - **Implicit Divinity (Starting Ability)**: Work with your GM to pick a *Domain* for your magic to reside in. Spells you cast must fall under that domain. Whenever you take an action that interacts with the elements of your domain, you may pay 1 Focus to gain 1 Fate. 

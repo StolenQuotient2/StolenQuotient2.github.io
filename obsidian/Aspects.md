@@ -17,7 +17,7 @@ and finally,
 - *6 is for **Arcana**, for when you invoke magic's innate power against the universe*
 You may pick any two aspects *except Arcana* as your Core Aspects. 
 
-Your two Core Aspects, in addition to the flavor aspect, determine what numbers you will be aiming for during [Whim rolls]({% link obsidian/Rolling%20Dice.md %}). 
+Your two Core Aspects, in addition to the flavor aspect, determine what numbers you will be aiming for during [Whim rolls]({% link obsidian/Rolling_Dice.md %}). 
 
 
 ### ***Aspect Interpretation*** 
