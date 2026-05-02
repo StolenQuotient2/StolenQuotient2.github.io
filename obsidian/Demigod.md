@@ -34,3 +34,18 @@ Demigods start with the following:
 - **Vengeful**: You may amplify Power when casting a Minor spell, and injuries you inflict from spells are Severe.   
 
 - **Decree**: Spells you cast do not need a Somatic component. This ability cannot be used on spells that have Amplified the Subtle augment. 
+
+---
+
+### Notable Demigods:
+- Enzo, the Hand of Schemes (Domain: Anticipation)
+- Vera Skine, of the Evokers (Domain: Concatenation) 
+- Cassidy Wolfe, of the Exalted (Domain: Lies)
+
+
+### Techniques that include Demigod
+- Avatar (Demigod + Demigod)
+- Gemini (Demigod + Demigod)
+- Enigma (Demigod + Ley)
+- Obliterator (Demigod + Spellblade)
+- Displacer (Demigod + Bard)
