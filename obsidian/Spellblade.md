@@ -12,6 +12,7 @@ Spellblades start with the following:
 - A Common Spellblade — the weapon takes whatever form you wish. It need not be a "blade".
 - The *Martial* [Talent]({% link obsidian/Talents.md %}). 
 - The *Blood Circle* ability. 
+
 ---
 ## Spellblade Abilities:
 
