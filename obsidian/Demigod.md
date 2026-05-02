@@ -29,7 +29,7 @@ Demigods start with the following:
 
 - **Domain Mastery**: When using you spend Focus as part of an action where you cast a spell, gain one of the following effects.   
 	- Ignore the cost of Amplifying one Augment.  
-	- Double the effect of Diminishing one Augment. 
+	- Double the effect of Diminishing for all Augments. 
 
 - **Vengeful**: You may amplify Power when casting a Minor spell, and injuries you inflict from spells are Severe.   
 
