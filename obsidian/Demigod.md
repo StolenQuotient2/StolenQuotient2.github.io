@@ -2,7 +2,7 @@
 share: "true"
 layout: misfits
 title: Demigod
-mess_we_made: gods we've worshipped
+mess_we_made: gods we've awakened
 ---
 **Demigods** are powerful, but narrow spellcasters. Drawing on the power of their soul to cast spells, the magic of Demigods is potent and direct, and reflective of a fundamental truth about their identity. 
 
@@ -13,7 +13,7 @@ Demigods start with the following:
 
 ---
 
-### Demigod Abilities:
+## Demigod Abilities:
 
 - **Implicit Divinity (Starting Ability)**: Work with your GM to pick a *Domain* for your magic to reside in. Spells you cast must fall under that domain. Whenever you take an action that interacts with the elements of your domain, you may pay 1 Focus to gain 1 Fate. 
 
