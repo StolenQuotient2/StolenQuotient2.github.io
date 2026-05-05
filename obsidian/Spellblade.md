@@ -4,7 +4,16 @@ layout: misfits
 title: Spellblade
 mess_we_made: swords we've collected
 ---
+ *Those without the innate ability to see leylines can still draw power from them using a specially crafted weapon, called a Spellblade (although it need not be a “blade”). Spellblades absorb latent magical energy around them, and allow for redistribution by the user. They’re both a weapon, and an arcane focus. You wield one such blade.*
+
+---
+
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+
 **Spellblades** are named after their weapon, spellblades. These weapons are specially crafted out of materials that conduct mana well, allowing for a magically-inclined person to use the weapon to cast spells in addition to nonmagical attacks. While Spellblades do not possess as strong of an innate magical gift as other origins, they remain extraordinarily capable and powerful mages. 
+
 
 Spellblades start with the following:
 - 8 maximum mana
@@ -12,6 +21,7 @@ Spellblades start with the following:
 - A Common Spellblade — the weapon takes whatever form you wish. It need not be a "blade".
 - The *Martial* [Talent]({% link obsidian/Talents.md %}). 
 - The *Blood Circle* ability. 
+- Another ability or Talent of your choice. 
 
 ---
 ## Spellblade Abilities:

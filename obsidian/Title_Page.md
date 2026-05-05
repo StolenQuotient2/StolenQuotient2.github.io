@@ -31,6 +31,14 @@ The Misfits rules are posted here for easy access for my playtesters. The rules 
 
 If you've made it here from my other work, or through GitHub or some other method, feel free to poke around, but if you'd like to become a playtester I ask that you send me an email before simply taking these documents and running with them—the documents here are likely not fully updated. 
 
+## **On This Rulebook**:
+
+This rulebook is a living document. Rules will change frequently
+
+
 ## Table of Contents
 
 TBD: Full Table of Contents. This section will eventually contain links to all the major sections of the document. For example, [Building a Character]({% link obsidian/Building_a_Character.md %})
+
+
+- Introduction

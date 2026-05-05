@@ -4,12 +4,21 @@ layout: misfits
 title: Ley
 mess_we_made: leylines we've channeled
 ---
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+
+*Every part of the world has magic running through it, in currents through the air or ground, through every arcane and mundane thing. You have an innate ability to see and draw from these leylines, and you use that power to fuel your magic.*   
+
+---
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+
 **Leys** are born with the innate ability to detect and draw from leylines directly. Leys learn to draw extraordinary amounts of mana from leylines all at once, allowing them to cast spells of tremendous cost and effort. 
 
 Leys start with the following:
 - 12 maximum mana
 - 3 maximum Focus
 - The *Deepest Reserves* ability. 
+- Another ability or [Talent]({% link obsidian/Talents.md %}) of your choice. 
 
 ---
 
@@ -41,6 +50,6 @@ Leys start with the following:
 
 TBD
 
-### Techniques that include Ley
+### Techniques that include Ley:
 
 TBD

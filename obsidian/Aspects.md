@@ -1,11 +1,10 @@
 ---
 share: "true"
 layout: misfits
-title: Aspects
+title: Aspects, Aspect interpretation, and Whim of Fate
 mess_we_made: aspects we've channeled
 ---
-Aspects are representations of the ways that your character likes to go about solving problems. Every character will pick two 
-*Core Aspects*, which determine the Aspects that align closest with your character. 
+Aspects are representations of the ways that your character likes to go about solving problems. Every character will pick two *Core Aspects*, which determine the Aspects that align closest with your character. 
 
 Each of the six aspects corresponds to a face on the die, with the following associations:
 - *1 is the aspect of **Luck**, for when the universe works out in your favor*	  
@@ -19,6 +18,7 @@ You may pick any two aspects *except Arcana* as your Core Aspects.
 
 Your two Core Aspects, in addition to the flavor aspect, determine what numbers you will be aiming for during [Whim rolls]({% link obsidian/Rolling_Dice.md %}). 
 
+The number 6 is reserved for special circumstances. 6 is the aspect of *Arcana*; for when problems are solved with magic’s innate strength. You cannot pick 6 as one of your core aspects, but you may use it in your gameplay nonetheless. 
 
 ### ***Aspect Interpretation*** 
 
@@ -31,3 +31,9 @@ There are obviously literal interpretations of many of the aspects: An action wh
 | Preparation | Planning, Strategy, Brainstorming; Memory, History;  Calculation, Deduction; Pattern-Recognition, Logic, Reason; Training, Practice; |
 | Strength | Power, Force, Damage; Athleticism, Dexterity, Brawn;  Toughness, Resilience;  Speed, Agility;  |
 | Will | Precision, Control, Specificity;  Insight, Awareness, Perception;  Mentality, Sanity;  Completeness, Thoroughness;  Restraint;  |
+
+### ***Whim of Fate*** 
+
+	The mechanical reason you are picking Aspects is for *Whim of Fate* rolls.  A Whim of Fate roll, or just a *Whim* roll for short, is the standard process for rolling in *Misfits*. To make a Whim roll, you roll all 5 of your dice. Then, count the number of dice that land on a face corresponding to any of your Core Aspects. That total number is your score for the Whim roll.   
+	The main use of Whim rolls is when taking \[Actions\]. If you are taking an action that involves casting spells or using the effects of magical objects, you may score Arcana in addition to your core aspects on the associated Whim roll.   
+	Whenever you are meant to follow this process, this book will tell you to make a   Whim roll. When parts of this book instruct you to roll in ways that do not follow this process, that section of the book will tell you what process to follow instead. 
