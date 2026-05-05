@@ -4,7 +4,9 @@ layout: misfits
 title: Drives
 mess_we_made: goals we strived for
 ---
-	You didn’t just start a Reaper, you joined for a reason. Pick a category that your reason falls into; the specifics are up to you and your GM. 
+You didn’t just start a Reaper, you joined for a reason. Pick a category that your reason falls into; the specifics are up to you and your GM.
+
+Each drive gives the same mechanical benefits—focus on the details that are important to your character when making your choice. 
 
 ---
 
