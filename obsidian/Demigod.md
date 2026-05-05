@@ -7,8 +7,7 @@ mess_we_made: gods we've awakened
 *The former gods of the world were eliminated when the God-King took power. However, demigods—the human children of divine beings—stuck around. Some demigods are direct children of ancient gods, but others are far more distant relatives. The magic of Demigods is unwieldy and inflexible, but extremely potent.*
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
-%% Potential updated blurb:
-*As a consequence of the God-King's ascension, divine mana was scattered into the souls of many humans. Those humans who contain a shard of this divinity can tap into the same magic that the God-King once used to usher in humanity's Golden Age. You possess one such element of divinity.* %%
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
