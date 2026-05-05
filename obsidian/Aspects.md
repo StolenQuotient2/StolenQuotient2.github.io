@@ -31,9 +31,11 @@ There are obviously literal interpretations of many of the aspects: An action wh
 | Preparation | Planning, Strategy, Brainstorming; Memory, History;  Calculation, Deduction; Pattern-Recognition, Logic, Reason; Training, Practice; |
 | Strength | Power, Force, Damage; Athleticism, Dexterity, Brawn;  Toughness, Resilience;  Speed, Agility;  |
 | Will | Precision, Control, Specificity;  Insight, Awareness, Perception;  Mentality, Sanity;  Completeness, Thoroughness;  Restraint;  |
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+%% ### ***Whim of Fate*** 
 
-### ***Whim of Fate*** 
+The mechanical reason you are picking Aspects is for *Whim of Fate* rolls.  A Whim of Fate roll, or just a *Whim* roll for short, is the standard process for rolling in *Misfits*. To make a Whim roll, you roll all 5 of your dice. Then, count the number of dice that land on a face corresponding to any of your Core Aspects. That total number is your score for the Whim roll.   
 
-	The mechanical reason you are picking Aspects is for *Whim of Fate* rolls.  A Whim of Fate roll, or just a *Whim* roll for short, is the standard process for rolling in *Misfits*. To make a Whim roll, you roll all 5 of your dice. Then, count the number of dice that land on a face corresponding to any of your Core Aspects. That total number is your score for the Whim roll.   
-	The main use of Whim rolls is when taking \[Actions\]. If you are taking an action that involves casting spells or using the effects of magical objects, you may score Arcana in addition to your core aspects on the associated Whim roll.   
-	Whenever you are meant to follow this process, this book will tell you to make a   Whim roll. When parts of this book instruct you to roll in ways that do not follow this process, that section of the book will tell you what process to follow instead. 
+The main use of Whim rolls is when taking \[Actions\]. If you are taking an action that involves casting spells or using the effects of magical objects, you may score Arcana in addition to your core aspects on the associated Whim roll.   
+
+Whenever you are meant to follow this process, this book will tell you to make a   Whim roll. When parts of this book instruct you to roll in ways that do not follow this process, that section of the book will tell you what process to follow instead.  %%
