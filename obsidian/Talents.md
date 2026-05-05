@@ -6,9 +6,11 @@ mess_we_made: skills we honed
 ---
 ## **Talents**
 
-	There are many traits and skills that you can gain that are not necessarily tied directly to spellcasting. Pulling a rabbit from a hat might be a teleportation spell, but it might just be some masterful sleight of hand. You could try to charm the cute bookstore lesbian with the help of some charm spells, or you could simply talk to her, like a normal person. Moreover, there are a number of magical techniques that can be learned by a mage of any origin, which don’t warrant spellcasting either. These traits, magical or not, are called Talents.   
-	Talents can be taken by any origin in place of an origin ability. Some of these abilities are granted to specific origins by default (e.g. Spellblades learn Martial for free), but any of them can learn and use them over the course of a campaign.  
-	Below is a list of Talents, and their descriptions
+There are many traits and skills that you can gain that are not necessarily tied directly to spellcasting. Pulling a rabbit from a hat might be a teleportation spell, but it might just be some masterful sleight of hand. You could try to charm the cute bookstore lesbian with the help of some charm spells, or you could simply talk to her, like a normal person. Moreover, there are a number of magical techniques that can be learned by a mage of any origin, which don’t warrant spellcasting either. These traits, magical or not, are called *Talents*.   
+
+Talents can be taken by any origin in place of an origin ability. Some of these abilities are granted to specific origins by default (e.g. Spellblades learn Martial for free), but any of them can learn and use them over the course of a campaign.  
+
+---
 
 ### ***List of Talents***
 
