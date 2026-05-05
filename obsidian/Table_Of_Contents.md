@@ -1,0 +1,48 @@
+---
+share: "true"
+layout: misfits
+title: Table of Contents
+mess_we_made: mess we made
+---
+- Introduction
+- Character Creation
+	- aspects
+	- Whim of Fate
+	- Origins
+		- demigod
+		- ley
+		- spellblade
+		- bard
+		- ritualist
+	- Drive
+		- revolution
+		- Insight
+		- Survival
+		- Kinship
+		- Sanctuary
+	- Other character traits
+	- Talents
+	- Techniques of the masters
+		- taking multiple techniques
+		- optional: meeting the masters
+		- The techniques
+			- avatar
+			- gemini
+			- enigma
+			- obliterator
+			- displacer
+			- evoker
+			- coil
+			- awakened
+			- slipstream
+			- waveshaper
+			- unnamed ley+ritualist
+			- rundancer
+			- bladestorm
+			- satirist
+			- unnamed spellblade+rit
+			- idol
+			- persona
+			- summoner
+			- 
+- 
