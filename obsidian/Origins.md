@@ -11,7 +11,8 @@ As part of character creation, you will pick one of five *Origins*. In fiction, 
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 %% Any ability listed as a *GIMMICK* is an innate ability that is essential to that origin. As soon as you declare that you are that origin, you gain that ability.   
-	{For Alpha/Beta testing, I’ve included a term in (parentheses) to give an idea of what the core ideas and mechanics of that origin are. This will be removed later.} %%
+	{For Alpha/Beta testing, I’ve included a term in (parentheses) to give an idea of what the core ideas and mechanics of that origin are. This will be removed later.} 
+%%
 
 - [Demigod]({% link obsidian/Demigod.md %}) - **Implicit Specialization, Domain Control, Specialized Utility**
 - [Ley]({% link obsidian/Ley.md %}) - **Extreme Magic, Mana Manipulation, and Arcane Intuition**
