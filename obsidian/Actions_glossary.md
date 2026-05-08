@@ -1,6 +1,8 @@
 ---
 share: "true"
 title: An Explanation of Terms And Ideas Involved in Actions
+layout: misfits
+mess_we_made: mess we made
 ---
 ### ***Fate*** 
 Starting fate calculation: \+1 if you’re of higher (effective) level, \+1 if allies are assisting, \+1 for any effects influencing your personal abilities in regards to the current action

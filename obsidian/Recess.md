@@ -8,12 +8,12 @@ Recess is the less threatening phase of play, where the party can relax and comp
 
 After an encounter ends, the party can choose to take Recess, and if so, for how long. The length of Recess determines the number of *Beats* the party receives, which can be spent on *Measures* to do tasks during Recess. Below is a table of various Recess periods and the associated number of Beats. 
 
-| Duration | Beats |
-| :---- | :---- |
-| A few hours or less | 0 |
-| Up to a day | 6 |
-| Up to a week | 12 |
-| Up to a month | 24 |
+| Duration            | Beats                   |
+| :------------------ | :---------------------- |
+| A few hours or less | 0                       |
+| Up to a day         | 6                       |
+| Up to a week        | 12                      |
+| Up to a month       | 24                      |
 | Longer than a month | See \[Extended Recess\] |
 
 Regardless of the length of Recess, the first thing every character does each Recess is lower their injury level by 1, remove the Severely Injured status, restore all of their mana, and restore 1 Focus. Additional restoration requires the use of Measures. 

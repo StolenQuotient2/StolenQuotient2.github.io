@@ -21,12 +21,15 @@ Most actions require a roll to determine whether they succeed. An *Action Roll* 
 
 Before making any rolls, first your GM will assign two values to the roll. Its \[Difficulty\] and your starting [Fate]({% link obsidian/Actions_glossary.md %}). Special abilities may add additional Fate. Once those values are decided, make a [Whim Roll]({% link obsidian/Actions_glossary.md %}), and add your Fate. This is your final score for the Action Roll. 
 
-%% ###  ***Assisting***
-
-While you’re working through your action, you may find that you’re a little short of the Fate you want for the current action, and need some assistance from an ally. In that case, one or more allies can Assist.   
-	When an ally chooses to Assist, they should describe what they are doing to help out in the current situation. This can take a number of forms, but any action taken as an Assist must create some tangible benefit to the situation {Providing moral support to your team is assumed, and therefore does not count as an Assist}.   
-	Actions as part of assisting Just Work, but may expose the assisting ally to any consequences if the roll still goes badly. You may cast a spell as part of assisting, but you should pay any costs for the spell when you do so. Assisting without casting a spell costs 1AP, and assisting by casting a spell costs the same amount as casting the spell normally (either 2 or 3AP, at base).  
+%%  ###  ***Assisting*** 
  %%
+ 
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+
+%%  when an ally chooses to Assist, they should describe what they are doing to help out in the current situation. This can take a number of forms, but any action taken as an Assist must create some tangible benefit to the situation {Providing moral support to your team is assumed, and therefore does not count as an Assist}.   
+ %%
+ 
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 ### ***Action Roll Scoring***
 
 Action Rolls are scored relative to their difficulty. 
@@ -38,3 +41,5 @@ Action Rolls are scored relative to their difficulty.
 - If you score 2 or more *below* the difficulty of the action, Fail with \[Complication\].
 
 ***Optional: Uncharacteristic Successes***
+
+{TBD}
