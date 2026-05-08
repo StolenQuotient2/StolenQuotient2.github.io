@@ -8,11 +8,9 @@ Scoring of action rolls, and some special effects, refers to Momentum and/or Com
 	When you receive Momentum or Complication, the GM will pick an effect from the list below. 
 
 - Momentum:  
-  - Take the Initiative  
   - Restore 1 AP  
   - Refund half (rounded up) of the base cost of any spells you cast this action.   
 - Complication:  
-  - Lose the Initiative; if you already do not have the Initiative, the situation becomes Tight.   
   - Lose 1 AP  
   - Spend additional mana equal to half (rounded up) of the base cost of any spells you cast this action  
   - An enemy presents an additional Threat, or strengthens a preexisting one.
