@@ -15,7 +15,7 @@ Rather than a health point total, each character can exist in one of five states
 |  Major  | \-1 score to Whim rolls. This does not affect healing rolls.                                                                                            |
 | Extreme | \-2 score to Whim rolls. This does not affect healing rolls.                                                                                            |
 |  Dead   | You are dead. You cannot take actions or assist others. To continue as this character you must be resurrected. See \[Death and Resurrection\] for more. |
-## **Taking Injuries** {#taking-injuries}
+## **Taking Injuries**
 
 Whenever you take a new injury, your injury state will adjust based on the strength of the injury, as well as your current injury state.   
 Firstly, when you have no injuries, taking an injury of any kind brings you to that injury state. So, if you were to take a Major injury, you become Majorly Injured. (Lethal injuries correspond to the Dead injury level).   
@@ -40,7 +40,7 @@ Some injuries are designated as *Severe.* Severe injuries compound much more eas
 This does not affect injuries that compound deterministically, e.g. when taking an injury of the same level as your current injury state.   
 If you take a Severe injury while you are already severely injured, the new injury is treated as if it was one level higher. 
 
-## **Determining Injury Strength** {#determining-injury-strength}
+## **Determining Injury Strength** 
 
 Since the potency of incoming injuries can be qualitative, this section provides a guide on how to assign levels to different kinds of injuries. When determining the strength of most injuries, refer to the table below for guidance. In addition, you can use the following standards:
 
@@ -56,4 +56,4 @@ Since the potency of incoming injuries can be qualitative, this section provides
 | Lethal  | Injuries that kill on impact or extremely quickly. Non-survivables.                                                                                    | Suffocation,  Decapitation, Soul-separation, Disintegration, Spaghettification                    |
   ### ***Healing***   
 
-Healing during Recess can be done through the use of measures. Outside of Recess, healing can only be done by someone with the \[Medical\] talent. See the description of the Medical talent for details. 
+Healing during Recess can be done through the use of measures. Outside of Recess, healing can only be done by someone with the [Medical]({% link obsidian/Talents.md %}) talent. See the description of the Medical talent for details. 
