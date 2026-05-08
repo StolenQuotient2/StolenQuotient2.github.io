@@ -7,7 +7,7 @@ mess_we_made: mess we made
 
 Misfits is a TTRPG by Sam Thiel
 
-Version: Alpha-Obsidian 4.5.1
+Version: Alpha-Obsidian 4.5.8
 
 The content in this webpage, and the pages linked to it, are part of the Misfits TTRPG.
 Copyright: Sam Thiel © 2026 
@@ -33,12 +33,9 @@ If you've made it here from my other work, or through GitHub or some other metho
 
 ## **On This Rulebook**:
 
-This rulebook is a living document. Rules will change frequently
+This rulebook is a living document. Rules will change frequently, and the final version of this rulebook likely won't be finished for some time. The version number at the top of this page indicates the date this rulebook was last updated with the last two digits (the first number is for my own record keeping). 
 
 
 ## Table of Contents
 
-TBD: Full Table of Contents. This section will eventually contain links to all the major sections of the document. For example, [Building a Character]({% link obsidian/Building_a_Character.md %})
-
-
-- Introduction
+You can find the Table of Contents in the top right corner of this page, or [Here]({% link obsidian/Table_Of_Contents.md %}).
