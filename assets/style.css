@@ -8,6 +8,11 @@ h2 {color: rgb(138, 255, 136);}
 h3 {color: #81db99;}
 canvas {margin: auto; width:100%}
 
+table, th, td, tr {
+  border: 1px solid white;
+}
+
+
 /* For Phone */
 #portrait img {width:100%}
 #navigation a{display:block; margin-bottom:8px; font-size:20px}
