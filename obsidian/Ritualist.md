@@ -42,3 +42,13 @@ Ritualists start with the following:
 - **Arcane Counterweighting**: Casting a Prepared, Major spell costs 2 mana, regardless of any augments that are Amplified or Diminished, or any other effects that influence mana cost. 
 
 - **Unlimited Patience**: You have no limit on the number of Action Points you may have at once during a Situation. 
+
+---
+
+## Notable Ritualists:
+
+TBD
+
+## Techniques that include Ritualist:
+
+TBD
