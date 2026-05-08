@@ -7,7 +7,8 @@ mess_we_made: mess we made
 ## **Injury States** 
 
 Rather than a health point total, each character can exist in one of five states of harm that represent the total state of all their injuries: None, Minor, Major, Extreme, and Dead. These five states are treated as increasing levels, in that order. The more injuries you take, the higher your injury level will become, which restricts your ability to take actions until you are eventually dead and cannot take actions.  
-  Below is a table with the five injury states, as well as the relevant consequences for being in that state. Consequences from injury states are not cumulative, so if you have the Major injury state, you do not get the consequence from the Minor injury state.
+
+Below is a table with the five injury states, as well as the relevant consequences for being in that state. Consequences from injury states are not cumulative, so if you have the Major injury state, you do not get the consequence from the Minor injury state.
 
 |  Level  | Consequence                                                                                                                                             |
 | :-----: | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -15,6 +16,7 @@ Rather than a health point total, each character can exist in one of five states
 |  Major  | \-1 score to Whim rolls. This does not affect healing rolls.                                                                                            |
 | Extreme | \-2 score to Whim rolls. This does not affect healing rolls.                                                                                            |
 |  Dead   | You are dead. You cannot take actions or assist others. To continue as this character you must be resurrected. See \[Death and Resurrection\] for more. |
+
 ## **Taking Injuries**
 
 Whenever you take a new injury, your injury state will adjust based on the strength of the injury, as well as your current injury state.   
@@ -54,6 +56,7 @@ Since the potency of incoming injuries can be qualitative, this section provides
 | Major   | Survivable, but concerning injuries. Injuries that take significant time to heal on their own.                                                         | Broken bones, Severe bleeding, Large gashes, Significant burns.                                   |
 | Extreme | Injuries only survivable with extreme luck, magical intervention, or both. Injuries that take a long time to heal fully on their own, or simply don’t. | Severed limbs, Third-degree burns, Spinal Injury, Head Trauma, Stroke, Electrocution, Hypothermia |
 | Lethal  | Injuries that kill on impact or extremely quickly. Non-survivables.                                                                                    | Suffocation,  Decapitation, Soul-separation, Disintegration, Spaghettification                    |
-  ### ***Healing***   
+
+### ***Healing***   
 
 Healing during Recess can be done through the use of measures. Outside of Recess, healing can only be done by someone with the [Medical]({% link obsidian/Talents.md %}) talent. See the description of the Medical talent for details. 
