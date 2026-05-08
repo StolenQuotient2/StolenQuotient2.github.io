@@ -2,47 +2,63 @@
 share: "true"
 layout: misfits
 title: Table of Contents
-mess_we_made: mess we made
+mess_we_made: neatly organized list of all of the things we've done
 ---
-- Introduction
-- Character Creation
-	- aspects
-	- Whim of Fate
-	- Origins
-		- demigod
-		- ley
-		- spellblade
-		- bard
-		- ritualist
-	- Drive
-		- revolution
+- [Introduction]({% link obsidian/Table_Of_Contents.md %})
+- [Character Creation]({% link obsidian/Building_a_Character.md %})
+	- [Aspects]({% link obsidian/Aspects.md %})
+		- Aspect interpretation
+	- [Rolling Dice]({% link obsidian/Rolling_Dice.md %})
+		- Whim Rolls
+		- Action Rolls
+		- Action Roll scoring
+	- [Origins]({% link obsidian/Origins.md %})
+		- [Demigod]({% link obsidian/Demigod.md %})
+		- [Ley]({% link obsidian/Ley.md %})
+		- [Spellblade]({% link obsidian/Spellblade.md %})
+		- [Bard]({% link obsidian/Bard.md %})
+		- [Ritualist]({% link obsidian/Ritualist.md %})
+	- [Drives]({% link obsidian/Drives.md %})
+		- Revolution
 		- Insight
 		- Survival
 		- Kinship
 		- Sanctuary
-	- Other character traits
-	- Talents
-	- Techniques of the masters
+	- [Talents]({% link obsidian/Talents.md %})
+	- [Techniques of the Masters]({% link obsidian/Techniques_Title_page.md %})
 		- taking multiple techniques
-		- optional: meeting the masters
+		- Meeting the Masters (Optional)
 		- The techniques
-			- avatar
-			- gemini
-			- enigma
-			- obliterator
-			- displacer
-			- evoker
-			- coil
-			- awakened
-			- slipstream
-			- waveshaper
-			- unnamed ley+ritualist
-			- rundancer
-			- bladestorm
-			- satirist
-			- unnamed spellblade+rit
-			- idol
-			- persona
-			- summoner
-			- 
-- 
+* [Choosing Your Adventure]({% link obsidian/Choosing_Your_Adventure.md %})
+	* Adventure Sheets
+* [Player and Party Advancement]({% link obsidian/Player_And_Party_Advancement.md %})
+	* Level
+	* Experience
+	* Inspiration
+* [The Play Cycle]({% link obsidian/Play_cycle_nav.md %})
+	* [Situations]({% link obsidian/Situations.md %})
+		* Entering a situation
+		* Identifying and Specifying Threats
+	* [Taking Actions]({% link obsidian/Actions_navigation.md %})
+		* The Gameplay loop
+		* [ Rolling Dice]({% link obsidian/Rolling_Dice.md %})
+		* [Momentum and Complication]({% link obsidian/Momentum_and_Complication.md %})
+		* [Actions glossary]({% link obsidian/Actions_glossary.md %})
+	* Combat
+		* [Injury]({% link obsidian/Injury.md %})
+			* Injury states
+			* Taking Injuries
+			* Severe Injuries
+			* Determining Injury Strength
+			* Healing
+	* [Recess]({% link obsidian/Recess.md %})
+		* Measures
+		* Extended Recess
+		* The World Keeps Turning
+* [Spellcasting]({% link obsidian/Spellcasting_Home.md %})
+	* [Mana cost, Augments, and Potency]({% link obsidian/ManaCost_Augments_Potency.md %})
+		* Modifying allied spells
+		* Sustained spell effects
+	* [Attuning]({% link obsidian/Attuning.md %})
+	* [Draincasting]({% link obsidian/Draincasting.md %}) (Optional)
+* The World of Panops
