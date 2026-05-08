@@ -21,13 +21,11 @@ Most actions require a roll to determine whether they succeed. An *Action Roll* 
 
 Before making any rolls, first your GM will assign two values to the roll. Its \[Difficulty\] and your starting [Fate]({% link obsidian/Actions_glossary.md %}). Special abilities may add additional Fate. Once those values are decided, make a [Whim Roll]({% link obsidian/Actions_glossary.md %}), and add your Fate. This is your final score for the Action Roll. 
 
-%%  ###  ***Assisting*** 
- %%
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
  
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
-%%  when an ally chooses to Assist, they should describe what they are doing to help out in the current situation. This can take a number of forms, but any action taken as an Assist must create some tangible benefit to the situation {Providing moral support to your team is assumed, and therefore does not count as an Assist}.   
- %%
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
  
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 ### ***Action Roll Scoring***
