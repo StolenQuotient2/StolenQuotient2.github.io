@@ -93,8 +93,8 @@ TBD: Assisting (entwined and setup actions), Preparing actions.
 
 ### <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
-%% Prepared Threats are special Threats that Arcanist (or above) sources can present. Whenever a Source presents a Prepared Threat, your GM should state that “(Source) is Prepared” along with the Threat’s Danger. All Prepared Threats are Imminent.   
-There are two types of Prepared Threats: *Response Threats* and *Sequential Threats*. Both types have a triggering condition that should be decided by the GM (but kept secret\!) before the Threat is presented.   %%
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
@@ -104,9 +104,7 @@ There are two types of Prepared Threats: *Response Threats* and *Sequential Thre
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
-%% {Example where Sequential Threat adapts because the main threat was addressed}  
-{Example where Sequential Threat is addressed, and so cannot fire, but the main threat fires}  
-Response   %%
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
