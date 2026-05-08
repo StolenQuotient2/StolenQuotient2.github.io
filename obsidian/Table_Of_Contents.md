@@ -4,7 +4,7 @@ layout: misfits
 title: Table of Contents
 mess_we_made: neatly organized list of all of the things we've done
 ---
-- [Introduction]({% link obsidian/Table_Of_Contents.md %})
+- [Introduction]({% link obsidian/Title_Page.md %})
 - [Character Creation]({% link obsidian/Building_a_Character.md %})
 	- [Aspects]({% link obsidian/Aspects.md %})
 		- Aspect interpretation
