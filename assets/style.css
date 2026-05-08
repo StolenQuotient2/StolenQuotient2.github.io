@@ -115,6 +115,11 @@ ul {margin:0px}
 
 .email:before { content: attr(data-localpart) "@"; }
 
+
+#contact_info table{
+  border: none;
+}
+
 #contact_info td{
   width:40%;
   margin-left: 10%;
