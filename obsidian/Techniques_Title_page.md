@@ -4,7 +4,7 @@ share: "true"
 mess_we_made: mess we made
 title: Techniques of the Masters
 ---
-	Across all of Panops, there are tales of incredibly talented magic users who have learned to channel the power of multiple origins at once. These *Masters* of these special arcane techniques are able to tap into powerful, otherworldly and unique abilities.   
+Across all of Panops, there are tales of incredibly talented magic users who have learned to channel the power of multiple origins at once. These *Masters* of these special arcane techniques are able to tap into powerful, otherworldly and unique abilities.   
 
 View all available techniques [Here.]({% link obsidian/Techniques.md %})
 
@@ -17,7 +17,8 @@ Now that you have a Technique, you may take a technique ability any time you wou
 | Ley        | Runoff, Moth to a Flame, Heightened Concentration |
 | Spellblade | Steadfast, Dauntless, Flick of the Wrist          |
 | Bard       | Monologue, Deuteragonist, Make Your Own Luck      |
-	Techniques, due to their rarity and power, are often forbidden by the Dreamers, Council, or Church. When you interact with one of these factions, treat your reputation with them as if you were 1 lower if you possess a forbidden Technique for that faction. A chart of which factions have forbidden which Techniques is below.
+
+Techniques, due to their rarity and power, are often forbidden by the Dreamers, Council, or Church. When you interact with one of these factions, treat your reputation with them as if you were 1 lower if you possess a forbidden Technique for that faction. A chart of which factions have forbidden which Techniques is below.
 
 | Faction  | Forbidden Techniques                                                                     |
 | :------- | :--------------------------------------------------------------------------------------- |
@@ -31,10 +32,10 @@ Now that you have a Technique, you may take a technique ability any time you wou
 As the rules stand, there is no way to take multiple Techniques at once. The strength of an individual technique is too high to allow for multiple at the same time, as well as potentially allowing you to gain abilities from all origins. 
 
 
-### ***Optional: Meeting the Masters*** {#optional:-meeting-the-masters}
+### ***Optional: Meeting the Masters*** {#optional:-meeting-the-masters}	
 
-	  
-	Meeting the Masters is an alternative method for filling the Inspiration track. Ask your GM if this rule is in play. If it is, you may declare the Technique you wish to learn, which locks you out from other options.   
+Meeting the Masters is an alternative method for filling the Inspiration track. Ask your GM if this rule is in play. If it is, you may declare the Technique you wish to learn, which locks you out from other options.   
+
 Once you declare a given Technique, when you \[Connect\] with a Master of the technique you wish to learn, or see that Master use the Technique during an encounter, you gain 1 point on your inspiration track. Do this only once between Recesses.   
 Your GM may also grant you multiple points on the inspiration track for particularly dramatic gameplay moments involving masters of these Techniques.   
-	
+
