@@ -40,3 +40,5 @@ Ritualists start with the following:
 - **Take Your Time**: Diminishing the Snap augment applies to the base cost of the spell (This means it applies before any Amplifications).   
 
 - **Arcane Counterweighting**: Casting a Prepared, Major spell costs 2 mana, regardless of any augments that are Amplified or Diminished, or any other effects that influence mana cost. 
+
+- **Unlimited Patience**: You have no limit on the number of Action Points you may have at once during a Situation. 

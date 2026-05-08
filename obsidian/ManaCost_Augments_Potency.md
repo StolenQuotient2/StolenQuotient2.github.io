@@ -4,12 +4,12 @@ title: Mana Cost, Augments, and Potency
 layout: misfits
 mess_we_made: mess we made
 ---
-## **Mana Cost, Augments, and Potency**
-	Every spell costs 2 mana at base, and must cost at least 1 mana after modifications. This number is increased and decreased according to which Augments *Amplify* or *Diminish* your spell. When an augment Amplifies your spell, multiply its cost by 2\. When an augment Diminishes your spell, reduce its cost by 1\. In all cases, multiplicative effects to spell costs apply before additive ones. This means you should apply *all* Amplifications first, then *all* Diminutions. {We obey PEMDAS here.}   
-	  
-	The *potency* of a spell is determined by the total amplifications and diminutions. If you have an equal number of amplifications and diminutions, the spell has Major potency. More amplifications means the spell is Extreme, more diminutions means the spell is Minor. 
+Every spell costs 2 mana at base, and must cost at least 1 mana after modifications. This number is increased and decreased according to which Augments *Amplify* or *Diminish* your spell. When an augment Amplifies your spell, multiply its cost by 2\. When an augment Diminishes your spell, reduce its cost by 1\. In all cases, multiplicative effects to spell costs apply before additive ones. This means you should apply *all* Amplifications first, then *all* Diminutions. {We obey PEMDAS here.}   
 
-	Below is the list of augments, with their associated Amplifications and Diminusions. Every Augment that your spell description applies to should apply, though the vast majority of spells will only be affected by a handful of augments. Very rarely does a spell affect more than 3 augments. You and your GM may decide to modify the spell description at any time before its cast to change its cost. Your GM has final say on any spell costs. Augments without descriptions under Diminish cannot be diminished. 
+The *potency* of a spell is determined by the total amplifications and diminutions. If you have an equal number of amplifications and diminutions, the spell has Major potency. More amplifications means the spell is Extreme, more diminutions means the spell is Minor. 
+
+Below is the list of augments, with their associated Amplifications and Diminusions. Every Augment that your spell description applies to should apply, though the vast majority of spells will only be affected by a handful of augments. Very rarely does a spell affect more than 3 augments. You and your GM may decide to modify the spell description at any time before its cast to change its cost. Your GM has final say on any spell costs. Augments without descriptions under Diminish cannot be diminished. 
+   *See Modifying Allied spells and Sustained Spell Effects below the table.*
 
 |    Name    | Diminish (-1)                                                                                                                             | Standard                                                                                                                          | Amplify (x2)                                                                                                                                                                           |
 | :--------: | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,3 +25,19 @@ mess_we_made: mess we made
 | Conscience |                                                                                                                                           | The spell affects the movement, memories or mood of a human target only a minor amount, or not at all.                            | The spell substantially alters the movement, memories, or mood of a human target.                                                                                                      |
 |  Control   |                                                                                                                                           | The spell has either no continual effect or is not freely manipulable by the caster after its casting                             | The spell has a freely manipulable or changing effect after its casting.                                                                                                               |
 |  Overcost  |                                                                                                                                           |                                                                                                                                   | You may willingly amplify a spell any number of times with no additional effect. Your GM may also apply Overcost to a spell with a powerful effect not covered by the above augments. |
+
+## **Modifying Allied Spells**
+
+{TBD: Currently, Allies should choose what augments to modify and pay the difference of any increased costs. Enemy spells have to be modified through allied spells in their own right}
+
+## **Sustained Spell Effects** 
+
+Spells that have amplified Duration are called *Sustained* spells. These are spells that require continued attention from the caster to keep their effects active. By default, a caster can only sustain one spell at a  time. Certain special abilities (e.g. Polyphony (Bard)) can modify this number. Spells that are sustained can be modified by other casters after the casting is complete.
+
+Sustained spells can be dispelled through a number of means. Here are the possible conditions. The *controller* of the spell is the caster by default, but if a spell is hijacked in some way by another mage, this may change.
+
+- The controller chooses to end the effect.  
+- The stated duration of the spell lapses.   
+- The controller \[Full-Attunes\].   
+- The spell is \[Countered\] in some way by another mage. There are a few ways of doing this, which are described in \[The Grand Theory of Magic\].   
+- The controller is incapacitated or killed.

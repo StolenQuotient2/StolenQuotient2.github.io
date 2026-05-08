@@ -36,7 +36,7 @@ Talents can be taken by any origin in place of an origin ability. Some of these 
 - Silver-Tongued  
 	- You’ve learned better methods of persuasion. Whenever you take an action to charm, barter, deceive, or otherwise gain advantage in a social situation, you may choose to reroll your Whim roll before applying Fate.   
 - Alert  
-	- You’re constantly vigilant, and know how to quickly ready yourself for a fight or danger in general. If a situation begins where you would be surprised, startled or otherwise off guard, you may take an action for 2AP or less without paying the AP cost.  
+	- You’re constantly vigilant, and know how to quickly ready yourself for a fight or danger in general. You automatically [Identify any Threats]({% link obsidian/Situations.md %}) which are attacks against you, or one of your allies. When you take actions to nullify Threats that are attacks, you may choose to reroll your Whim roll before applying Fate.   
 - Insider   
 	- Choose a Faction. You possess a greater than average knowledge of the workings, plans, and members of that faction. When you interact with members of this faction, increase your effective level by 1\. You may take this talent multiple times, but only once for each Faction.   
 - Medicinal  
