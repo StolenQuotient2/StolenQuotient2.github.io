@@ -5,6 +5,9 @@ title: Rulebook
 mess_we_made: mess we made
 ---
 
+![100%](./Misfits_Logo_White.svg)
+
+
 Misfits is a TTRPG by Sam Thiel
 
 Version: Alpha-Obsidian 4.5.8
