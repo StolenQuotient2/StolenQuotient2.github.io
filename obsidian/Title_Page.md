@@ -35,6 +35,11 @@ If you've made it here from my other work, or through GitHub or some other metho
 
 This rulebook is a living document. Rules will change frequently, and the final version of this rulebook likely won't be finished for some time. The version number at the top of this page indicates the date this rulebook was last updated with the last two digits (the first number is for my own record keeping). 
 
+There are some notational conventions which hold throughout these pages:
+
+The first is that a term in [brackets] is a nonexistent crosslink. This means it either refers to content on the same page, or content on a webpage that has not been linked yet. As this rulebooks is fleshed out more of these will be covered and built in as links. 
+
+The other is that a comment in {braces} is a comment from me, Sam, specifically. It should be interpreted as a meta-element and not part of the fundamental rules and the world they inhabit. Often these are either explanatory notes, jokes, or very fast summaries of sections that I'm yet to write. 
 
 ## Table of Contents
 
