@@ -48,11 +48,3 @@ The other is that a comment in {braces} is a comment from me, Sam, specifically.
 
 You can find the Table of Contents in the top right corner of this page, or [Here]({% link obsidian/Table_Of_Contents.md %}).
 
-
-<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED --> 
-
-<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
-
-this is testing text 
-
-<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
