@@ -1,21 +1,21 @@
 ---
 share: "true"
-layout: misfits
+layout: misfits_title
 title: Rulebook
 mess_we_made: mess we made
 ---
 
 ![100%](./Misfits_Logo_White.svg)
 
-
-Misfits is a TTRPG by Sam Thiel
-
-Version: Alpha-Obsidian 4.5.8
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+ 
+Misfits is a TTRPG by Sam Thiel. Version: Alpha-Obsidian 4.5.8
 
 The content in this webpage, and the pages linked to it, are part of the Misfits TTRPG.
 Copyright: Sam Thiel © 2026 
+### *[Table of Contents]({% link obsidian/Table_Of_Contents.md %})*
 
-
+---
 ## **Introduction**
 
 You are one of the many young people displaced by the Drain who have fallen through the cracks of the social, legal, and educational systems in Panops.
@@ -40,11 +40,7 @@ This rulebook is a living document. Rules will change frequently, and the final 
 
 There are some notational conventions which hold throughout these pages:
 
-The first is that a term in [brackets] is a nonexistent crosslink. This means it either refers to content on the same page, or content on a webpage that has not been linked yet. As this rulebooks is fleshed out more of these will be covered and built in as links. 
+A term in [brackets] is a nonexistent crosslink. This means it either refers to content on the same page, or content on a webpage that has not been linked yet. As this rulebooks is fleshed out more of these will be covered and built in as links. 
 
-The other is that a comment in {braces} is a comment from me, Sam, specifically. It should be interpreted as a meta-element and not part of the fundamental rules and the world they inhabit. Often these are either explanatory notes, jokes, or very fast summaries of sections that I'm yet to write. 
-
-## Table of Contents
-
-You can find the Table of Contents in the top right corner of this page, or [Here]({% link obsidian/Table_Of_Contents.md %}).
+A comment in {braces} is a comment from me, Sam, specifically. It should be interpreted as a meta-element and not part of the fundamental rules and the world they inhabit. Often these are either explanatory notes, jokes, or very fast summaries of sections that I'm yet to write. 
 
