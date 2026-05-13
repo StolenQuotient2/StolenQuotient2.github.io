@@ -13,7 +13,7 @@ Misfits is a TTRPG by Sam Thiel. Version: Alpha-Obsidian 4.5.8
 
 The content in this webpage, and the pages linked to it, are part of the Misfits TTRPG.
 Copyright: Sam Thiel © 2026 
-### *[Table of Contents]({% link obsidian/Table_Of_Contents.md %})*
+### *[Click Here for the Table of Contents]({% link obsidian/Table_Of_Contents.md %})*
 
 ---
 ## **Introduction**
