@@ -41,6 +41,8 @@ Bards start with the following:
 
 - **Jack of All Trades**: When you take an action while not in a Situation, you may spend 2 mana to gain +1 Fate.
 
+- **Reverberate**: Spells you cast with unaugmented Duration persist for two turns after you take another action. 
+
 ---
 
 ### Notable Bards:
