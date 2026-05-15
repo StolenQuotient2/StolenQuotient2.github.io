@@ -17,7 +17,9 @@ As help organizing this section, every item here will be tagged with one of the 
 
   ## **Enchantments**
 
-This section has an additional notational convention: if a line of text is in angle brackets “\< \>”, it is an Enchantment. Enchantments can be transferred between items, so this is to quickly indicate what things you can borrow from items, and what things are intrinsic to the item itself. See \[Enchanting\] for more information on transferring enchantments. 
+This section has an additional notational convention: if a line of text is in angle brackets “\< \>”, it is an Enchantment. Enchantments can be transferred between items, so this is to quickly indicate what things you can borrow from items, and what things are intrinsic to the item itself. Creating your own enchantments is not currently possible.
+
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
 ## **Item Classes** 
 
@@ -27,10 +29,13 @@ There are a number of items which exist at a wide range of rarities. For simplic
 
 Spellblades are magical focuses and weapons combined. Spellblades come in a wide range of forms, and in a wide range of materials. Generally, they share in common that they contain a core made of a highly conductive metal or special magical material, surrounded by a more sturdy, mundane material to make it well-equipped for combat. 
 
-### 1. **Common** (Thousands Exist)
-### 2. Uncommon (Hundreds Exist)
-### 3. Rare (Dozens Exist)
+---
+### 1. **[Common]({% link obsidian/Common.md %})** (Thousands Exist)
+### 2. [Uncommon]({% link obsidian/Uncommon.md %}) (Hundreds Exist)
+### 3. [Rare]({% link obsidian/Rare.md %}) (Dozens Exist)
 
-### 4. Legendary (A Couple Dozen Exist)
+### 4. [Legendary]({% link obsidian/Legendary.md %}) (A Couple Dozen Exist)
 
-### 5. Mythical (Extremely Few, or Only One Exists)
+### 5. [Mythical]({% link obsidian/Mythical.md %}) (Extremely Few, or Only One Exists)
+
+---
