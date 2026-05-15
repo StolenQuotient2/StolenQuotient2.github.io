@@ -4,7 +4,10 @@ title: Spellcasting
 layout: misfits
 mess_we_made: mess we made
 ---
-# **Spellcasting**
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+
+# Spellcasting
 
 Spellcasting is the heart and soul of Misfits; much of your time spent in the game will be crafting spells on the fly in order to adapt to whatever situations your GM throws at you. This section will describe the qualitative system that Misfits uses to build spells. 
 
@@ -15,7 +18,7 @@ In the world of Panops, a mage casting a spell needs to use both an Audible and 
 To understand how to create a spell, see [here]({% link obsidian/ManaCost_Augments_Potency.md %}). 
 Advanced players may ask the GM if they may use [Draincasting]({% link obsidian/Draincasting.md %}) in their game.
 
-### ***Resolving Spell Interpretations***
+### *Resolving Spell Interpretations*
 
 The GM and players should work together to make sure that any spells cast have reasonable interpretations in the world, even if sometimes there are unintended side effects (which may take the form of consequences of particular actions). However, given the qualitative nature of spellcasting in *Misfits*, here are a few extra guidelines to base your interpretations on.  
 Firstly, consider the narrative. Ultimately spells are a tool to serve the story  
