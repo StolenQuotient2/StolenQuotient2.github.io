@@ -16,30 +16,30 @@ Talents can be taken by any origin in place of an origin ability. Some of these 
 
 {Whenever a talent tells you that you may reroll, you can only reroll a total of once per action.}
 
-- Specialized Spellcaster  
+- **Specialized Spellcaster**  
 	-  Pick an Augment. When you Amplify that Augment, the cost of your spell only increases by 1.5x (rounded down) as opposed to 2x.   
 	- You may take this Talent any number of times, but must choose a different Augment each time.   
-- Quickshot  
+- **Quickshot**  
 	- When you cast a spell that wouldn’t otherwise be affected by the Snap augment, you may choose to Amplify the Snap augment and reduce the AP cost of casting the spell by 1, to a minimum of 1\.   
-- Martial  
-	- You know how to wield a variety of weapons, and fight better even without one. You do not take difficulty penalties for attacking with weapons you’re unfamiliar with, and your effective level increases by 1 whenever you take an action that involves making an attack.  
-- Stealthy  
+- **Martial**  
+	- You know how to wield a variety of weapons, and fight better even without one. You do not take difficulty penalties for attacking with weapons you’re unfamiliar with, <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+- **Stealthy**  
 	- Over time, you’ve learned how to better hide or disguise yourself. When you take an action to hide, you may choose to reroll your Whim roll before applying Fate. You may also grant this bonus to an ally once per scene.   
-- Athletic  
+- **Athletic**  
 	- You’ve learned how to push yourself to better achieve feats of athleticism. When you take an action that involves some form of athletics, acrobatics or controlled motion, you may choose to reroll your Whim roll before applying Fate.  
-- Vigorous  
+- **Vigorous**  
 	- You’ve honed the physical strength and constitution of your body. Whenever you take an action that involves physical strength or toughness, you may choose to reroll your Whim roll before applying Fate. <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
-- Terrifying  
+- **Terrifying**  
 	- You are uncomfortable to be around, at least whenever you choose. When you take an action that involves intimidation, commanding others, or other force of personality, you may choose to reroll your Whim roll before applying Fate.   
-- Steady-Handed   
+- **Steady-Handed**   
 	- You are able to act with care and precision, even in tense situations. Whenever you take an action that involves careful movement or accuracy, you may reroll your Whim roll before applying Fate.   
-- Silver-Tongued  
+- **Silver-Tongued**  
 	- You’ve learned better methods of persuasion. Whenever you take an action to charm, barter, deceive, or otherwise gain advantage in a social situation, you may choose to reroll your Whim roll before applying Fate.   
-- Alert  
+- **Alert**  
 	- You’re constantly vigilant, and know how to quickly ready yourself for a fight or danger in general. You automatically [Identify any Threats]({% link obsidian/Situations.md %}) which are attacks against you, or one of your allies. When you take actions to nullify Threats that are attacks, you may choose to reroll your Whim roll before applying Fate.   
-- Insider   
+- **Insider**   
 	- Choose a Faction. You possess a greater than average knowledge of the workings, plans, and members of that faction. When you interact with members of this faction, increase your effective level by 1\. You may take this talent multiple times, but only once for each Faction.   
-- Medicinal  
+- **Medicinal**  
 	- See \[Healing\]. You understand advanced knowledge of human physiology and have studied Healing Magic. You may cast spells (in the standard way, see \[Spellcasting\]) to restore the injury levels of your companions as an action. The GM will assign a difficulty level for this action based on the level of injury of those you are healing (stronger injuries correspond to more difficult rolls). You may amplify Power to gain 1 Fate for this action.   
 - Artifice  
 	- You are deeply familiar with magical objects and their construction. You automatically know the details of any magic item not currently bound to someone, and can easily discern the rarity of any magical item from a glance. You may spend 1 Focus to instantly bind or unbind yourself to a magical object at any time. This works even when a magical item might restrict you from binding to it in some way. (This does not always guarantee you can use the items; often items labelled with lines such as “usable only by demigods” are that way because the effect is not relevant for other origins.)  
@@ -51,7 +51,4 @@ Talents can be taken by any origin in place of an origin ability. Some of these 
 	- You’ve learned to conjure a *Mage’s Lash* as an extra offensive tool. The lash is a whip-like coil of mana, made from the kind of mana that you use as a caster (Divine Mana: Demigod, Bard. Ley Mana: Ley, Spellblade. A Ritualist can use either kind). The Lash costs 1 Focus to create and inflicts a Major Injury on its targets. When you run out of Focus, or choose to dismiss it, the Lash breaks. When you land an attack with the Lash, you may spend 1 Focus and 1AP to can coil it around the target. A target coiled in this way cannot cast spells that do not directly try to break from the Lash. 
 
 
-%% - ~~Subtle Spellcaster~~  
-  - ~~You have learned how to cast spells without making a sound, and may do so whenever you choose. Applying the Subtle augment only increases the cost by 1.5x.~~   
-- ~~Intuitive Spellcaster~~  
-  - ~~Choose Wreck, Aid, Hinder, or Mystify. When you cast a spell from the chosen family, reduce its mana cost by 1\. You may take this Talent multiple times, but only for different spell families.~~   %%
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->

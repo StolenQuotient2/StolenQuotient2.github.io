@@ -4,6 +4,7 @@ layout: misfits
 title: Aspects, Aspect interpretation, and Whim of Fate
 mess_we_made: aspects we've channeled
 ---
+## Aspects
 Aspects are representations of the ways that your character likes to go about solving problems. Every character will pick two *Core Aspects*, which determine the Aspects that align closest with your character. 
 
 Each of the six aspects corresponds to a face on the die, with the following associations:

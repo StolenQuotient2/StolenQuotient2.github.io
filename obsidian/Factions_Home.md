@@ -14,28 +14,28 @@ The table below shows what support or attacks you can expect to receive from a f
 | Neutral/Unknown (0) |                                                                                                                                                                                                                                                                                                               |
 | Hostile (-1)        |                                                                                                                                                                                                                                                                                                               |
 | Nemeses (-2)        | You will be treated as hostile and dangerous. People of this faction will keep their distance, both literally and metaphorically. You are to be kept as far from important facilities and resources as possible.                                                                                              |
-**Major Factions:** 
-* The Reapers
-* The Dreamers
-* The Council
-* The Church
+## **Major Factions:** 
+* [The Reapers]({% link obsidian/Reapers.md %})
+* [The Dreamers]({% link obsidian/Dreamers.md %})
+* [The Council]({% link obsidian/Council.md %})
+* [The Church]({% link obsidian/The_Church.md %})
 
-Minor Factions:
-* The Wardens
-* The Nightmares
-* The Silver Kings
-* The Exalted
-* Enforcement
-* The Centurions
-* Pirates
-* The Shadows and the Sinners
-* The Slingers
-* The Cleansed
-* Kaelo Merchant's Guild
-* The Breaknecks
-* Adventurers
-
-## **Notable Faction Interactions** {#notable-faction-interactions}
+## Minor Factions:
+* [The Wardens]({% link obsidian/Wardens.md %})
+* [The Nightmares]({% link obsidian/Nightmares.md %})
+* [The Silver Kings]({% link obsidian/Silver_Kings.md %})
+* [The Exalted]({% link obsidian/Exalted.md %})
+* [Enforcement]({% link obsidian/Enforcement.md %})
+* [Centurions]({% link obsidian/Centurions.md %})
+* [Pirates]({% link obsidian/Pirates.md %})
+* [The Shadows and the Sinners]({% link obsidian/Shadows_and_Sinners.md %})
+* [The Slingers]({% link obsidian/Slingers.md %})
+* [The Cleansed]({% link obsidian/Cleansed.md %})
+* [Kaelo Merchant's Guild]({% link obsidian/Kaelo_Merchants_Guild.md %})
+* [The Breaknecks]({% link obsidian/Breaknecks.md %})
+* [Adventurers]({% link obsidian/Adventurers.md %})
+---
+## **Notable Faction Interactions**
 
 - The *Reapers* tend to make their home bases from abandoned *Dreamer* schools, as they already have much of what they need from a location. The *Dreamers* believe that the *Reapers* are going out of their way to shut down schools in order to turn them into their buildings. The *Reapers* deny these allegations. The *Nightmares* quietly avoid comment.   
 - The *Reapers* and the *Council* are very often at odds. *Reapers* are often accused of crimes without basis and arrested. The *Wardens* spend much of their time cataloging so-called “crime scenes” and bringing them as evidence for the eventual release of any captured *Reapers*. This has marginally decreased the number of false arrests that the *Council* makes, but also has increased the number of actual crimes the *Reapers* commit, with the assumption that the *Wardens* will break them out.   

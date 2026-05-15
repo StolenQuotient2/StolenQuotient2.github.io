@@ -18,6 +18,6 @@ As a new player, you have three major things to decide on. Your *[Aspects]({% li
 You may pick these three qualities in any order. However, it is recommended that you pick your Aspects first, your Origin second, and your Drive last—the choices you make for Aspects and Origin may influence what Drive you think fits best for your character. 
 
 
-### Other Character Traits 
+### *Other Character Traits* 
 
 Beyond your Aspects, Origin, and Drive, other character traits your character may have will have no intrinsic mechanical effect on gameplay. You should still think about who your character is, however. Those decisions will drive your character's story through your time playing *Misfits*. The things that make your character unique will help to define them and their struggles as you play.

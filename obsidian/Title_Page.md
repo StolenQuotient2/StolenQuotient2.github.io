@@ -9,7 +9,7 @@ mess_we_made: mess we made
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
  
-Misfits is a TTRPG by Sam Thiel. Version: Alpha-Obsidian 4.5.8
+Misfits is a TTRPG by Sam Thiel. Version: Alpha-Obsidian 4.5.15
 
 The content in this webpage, and the pages linked to it, are part of the Misfits TTRPG.
 Copyright: Sam Thiel © 2026 

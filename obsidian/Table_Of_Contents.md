@@ -61,4 +61,5 @@ mess_we_made: neatly organized list of all of the things we've done
 		* Sustained spell effects
 	* [Attuning]({% link obsidian/Attuning.md %})
 	* [Draincasting]({% link obsidian/Draincasting.md %}) (Optional)
-* The World of Panops
+* [The World of Panops]({% link obsidian/Worldbuilding_home.md %})
+* [Magical Items]({% link obsidian/Magic_Items_Home.md %})

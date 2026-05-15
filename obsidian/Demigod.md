@@ -4,7 +4,8 @@ layout: misfits
 title: Demigod
 mess_we_made: gods we've awakened
 ---
-*The former gods of the world were eliminated when the God-King took power. However, demigods—the human children of divine beings—stuck around. Some demigods are direct children of ancient gods, but others are far more distant relatives. The magic of Demigods is unwieldy and inflexible, but extremely potent.*
+*As a consequence of the God-King's ascension, divine mana was scattered into the souls of many humans. Those humans who contain a shard of this divinity can tap into the same magic that the God-King once used to usher in humanity's Golden Age. You possess one such element of divinity.*
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
@@ -27,11 +28,11 @@ Demigods start with the following:
 
 - **Implicit Divinity (Starting Ability)**: Work with your GM to pick a *Domain* for your magic to reside in. Spells you cast must fall under that domain. Whenever you take an action that interacts with the elements of your domain, you may pay 1 Focus to gain 1 Fate. 
 
-- **Eminent Domain**: You may pay 1 Focus to sustain an additional spell after the first or gain control of a spell sustained by another caster that falls within your domain.   
+- **Eminent Domain**: You may pay 1 Focus to sustain an additional spell after the first or gain control of a spell that falls within your domain.   
 
 - **Bear Witness**: Once between Recesses, you may spend any amount of Focus as part of an action. When you do, gain Fate equal to the amount of Focus spent.    
 
-- **Concentrated Will**: Spells you are sustaining are harder to manipulate by external forces. You may spend 2AP and 1 Focus to nullify a magical effect that would dispel a spell you are sustaining. This effect works without a roll.   
+- **Concentrated Will**: Spells you are sustaining are harder to manipulate by external forces. You may spend 2AP and 1 Focus to nullify a magical effect that would dispel, gain control of, or otherwise prevent the effects of a spell you are sustaining. 
 
 - **Absolute Dominion**: You cannot be injured by magical or nonmagical effects that fall within your domain.  You may choose to be unaffected by magical or nonmagical effects that fall within your domain.   
 

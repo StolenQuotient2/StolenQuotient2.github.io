@@ -29,9 +29,9 @@ Ritualists start with the following:
 
 - **Ghostwriting**: Once between Recesses, you may cast a spell by gesturing the shape of runes into the air. Spells cast this way can affect any targets you can see.   
 
-- **Three Steps Ahead**: Prepared Actions you take cannot be modified by Prepared Threats.    
+- ~~**Three Steps Ahead**: Prepared Actions you take cannot be modified by Prepared Threats.  ~~   Deprecated
 
-- **Ready for Anything**: When a Situation starts, you may Prepare a spell without spending AP. (it counts as being prepared this turn).   
+- **Ready for Anything**: When a Situation starts, you may Prepare a spell without spending AP. (it counts as being prepared during the current turn).   
 
 - **Channel**: Whenever you cast a spell outside of a Situation, or one that was prepared more than 2 actions ago, you may ignore the additional cost of Amplifying one Augment of your choice.  
 
