@@ -8,13 +8,13 @@ mess_we_made: mess we made
 
 This section assumes that the disagreement allows the party to be split into two clean teams. 
 
-## **Control** {#control}
+## **Control**
 
 	When a situation arises between players, in addition to the Initiative, players should track *Control*. Control determines who are the aggressors and the defenders in a given situation. When one team has Control, actions they take are presented as Threats that the other team must respond to, rather than actions that require rolls and such. 
 
 Control switches somewhat in line with the initiative; a team gains control when they start and end the current round with the Initiative.  If the Initiative switches in the middle of the round, it doesn’t affect Control; Control only switches when one team holds onto the Initiative for long enough. 
 
-## **Threats Created by Players** {#threats-created-by-players}
+## **Threats Created by Players**
 
 	As mentioned before, when a team has Control, they don’t take actions in the traditional sense, they instead present Threats. This works as it does for enemies, with the following changes:
 

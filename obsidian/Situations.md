@@ -72,6 +72,9 @@ The only condition on the description of your action is that it must align with 
 
 Once you have prepared an action, you may take a Standard Action on any future turn in order to use it. If the triggering condition was met immediately prior to taking the action, doing so costs 0AP. If not, taking the prepared action can still be done, but costs 1AP. 
 
+### ***Translating Ability Timings*** 
+0-3AP actions can be done in Free Play without concern. Effects that say “once per round” translate to “once per scene”. Abilities that say “once per situation” do not apply in free play. Abilities that say “once between rests/recesses” work as intended
+
 ### *Optional Rule: {This needs a name. Combo actions?}*
 
 This is an optional rule. Ask your GM if its in play. 

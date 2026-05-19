@@ -2,10 +2,16 @@
 share: "true"
 title: The World Beyond Death, Souls, and (Re)Birth
 ---
+## Souls and The World Beyond Death
+
 For lack of a better term, there is an afterlife, called The World Beyond Death (WBD). Noone knows what it looks like. The Veil restricts the viewing into this alternate dimension, but a few things are known/assumed about it by observing the nature of life and death in Panops:  
 Souls are an intense concentration of divine mana. Specifically, it is divine mana which all belongs to the same person. See [Divinity]({% link obsidian/Divinity.md %}) for more details about the ownership of divine mana. The important detail is that this ownership keeps this mana collected–this is what lets a Soul be an object, rather than just a bunch of mana in the abstract.   
-	The Soul is the only thing that passes between Panops and The World Beyond Death. It’s wellobserved that the body of a person stays on the planet when they die. Similarly, creatures, plants, etc. which do not have a soul will not pass on into The World Beyond Death. Once a Soul has moved into The WBD, details of what happens to it are unknown.   
-	The leading (and accurate) theory of what happens is that when the Soul passes on, it begins to slowly unravel into fragments of divine mana. These fragments don’t completely lose ownership, however; the fragments represent individual traits the former person had. Then, in The WBD, those fragments bounce around and reform into new Souls, which then can ascend back from The WBD to connect with newly born children.   
+
+The Soul is the only thing that passes between Panops and The World Beyond Death. It’s well observed that the body of a person stays on the planet when they die. Similarly, creatures, plants, etc. which do not have a soul will not pass on into The World Beyond Death. Once a Soul has moved into The WBD, details of what happens to it are unknown.   
+
+The leading (and accurate) theory of what happens is that when the Soul passes on, it begins to slowly unravel into fragments of divine mana. These fragments don’t completely lose ownership, however; the fragments represent individual traits the former person had. Then, in The WBD, those fragments bounce around and reform into new Souls, which then can ascend back from The WBD to connect with newly born children.   
+
 Again, (accurate) theory states that since the parents of the new child have   
 Souls of their own, Souls with similar traits to the parents’ souls are the ones most attracted from the WBD to ascend and become part of the newly born child.   
+
 This entire process means that Resurrection, pulling a passed person’s Soul back from The WBD, although possible, gets exponentially harder as time passes. See [Death and Resurrection]({% link obsidian/Death_and_Resurrection.md %}) as well. The more a person knows about the person they are trying to resurrect, the more of those traits and strands of the soul they can recompile. In spite of this, it's exceedingly common that people who have been resurrected have significant personality shifts after being brought back. This does not commonly manifest in any differences in specific traits implicitly (i.e. people who are resurrected are not prone to things like depression more than anyone else, just like they’re not more prone to being extroverted than anyone else). 

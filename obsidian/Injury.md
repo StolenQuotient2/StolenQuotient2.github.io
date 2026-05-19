@@ -17,7 +17,7 @@ Below is a table with the five injury states, as well as the relevant consequenc
 | Extreme | \-2 score to Whim rolls. This does not affect healing rolls.                                                                                            |
 |  Dead   | You are dead. You cannot take actions or assist others. To continue as this character you must be resurrected. See \[Death and Resurrection\] for more. |
 
-## **Taking Injuries**
+### **Taking Injuries**
 
 Whenever you take a new injury, your injury state will adjust based on the strength of the injury, as well as your current injury state.   
 Firstly, when you have no injuries, taking an injury of any kind brings you to that injury state. So, if you were to take a Major injury, you become Majorly Injured. (Lethal injuries correspond to the Dead injury level).   
@@ -36,13 +36,13 @@ Additionally, you can reference the table below to determine how many injury lev
 | Major                         | Flip a coin. If you lose, \+1 injury level | \+1 injury level                                                           | \+1 injury level, Flip a coin. If you lose, an additional \+1 injury level  |
 | Extreme                       | Flip a coin. If you lose, \+1 injury level | Flip a coin. If you lose, \+1 injury level                                 | \+1 injury level                                                            |
 
-## **Severe Injuries** 
+### **Severe Injuries** 
 
 Some injuries are designated as *Severe.* Severe injuries compound much more easily than regular injuries. When you take a severe injury, until you take Recess, injuries have an additional 25% chance to compound, for a total of 75%. In terms of flipping a coin, instead of flipping once, flip twice, and compound the injury if you lose either flip. (Note that certain abilities, like Steadfast (Spellblade), will reduce this chance back to 50%, in which case you should simply flip a coin normally).  
 This does not affect injuries that compound deterministically, e.g. when taking an injury of the same level as your current injury state.   
 If you take a Severe injury while you are already severely injured, the new injury is treated as if it was one level higher. 
 
-## **Determining Injury Strength** 
+### **Determining Injury Strength** 
 
 Since the potency of incoming injuries can be qualitative, this section provides a guide on how to assign levels to different kinds of injuries. When determining the strength of most injuries, refer to the table below for guidance. In addition, you can use the following standards:
 

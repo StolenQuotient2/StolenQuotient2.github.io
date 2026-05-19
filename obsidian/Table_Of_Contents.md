@@ -56,10 +56,6 @@ mess_we_made: neatly organized list of all of the things we've done
 		* Extended Recess
 		* The World Keeps Turning
 * [Spellcasting]({% link obsidian/Spellcasting_Home.md %})
-	* [Mana cost, Augments, and Potency]({% link obsidian/ManaCost_Augments_Potency.md %})
-		* Modifying allied spells
-		* Sustained spell effects
-	* [Attuning]({% link obsidian/Attuning.md %})
-	* [Draincasting]({% link obsidian/Draincasting.md %}) (Optional)
+	* [The Grand Theory of Magic]({% link obsidian/Grand_Theory_home.md %})
 * [The World of Panops]({% link obsidian/Worldbuilding_home.md %})
 * [Magical Items]({% link obsidian/Magic_Items_Home.md %})

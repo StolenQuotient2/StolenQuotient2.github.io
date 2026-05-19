@@ -4,7 +4,7 @@ title: Encounters
 mess_we_made: encounters we encountered
 layout: misfits
 ---
-*Encounters* are the active-play side of Misfits, where you'll explore the world, take actions, suffer consequences, and aim for your goals. This is in comparison to [Recess]({% link obsidian/Recess.md %}), which is the passive-play side of Misfits, where you spend resources in order to gain information and items without playing through the scenes directly. 
+*Encounters* are the active-play side of Misfits, where you'll explore the world, take actions, suffer consequences, and aim for your goals. This is in comparison to [Recess]({% link obsidian/Recess.md %}), which is the passive-play side of Misfits, where you spend resources in order to gain information and items without playing through the scenes directly.
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 

@@ -6,6 +6,7 @@ mess_we_made: dice we rolled
 ---
 *Misfits* is a game that gives players a lot of agency over the decisions characters can make, and thus learning to take actions can be the most difficult part of learning the game. Don’t worry though, these next sections will teach you everything you need to know. 
 
+---
 ## **The Gameplay Loop**
 
 While the details will be needed, right now the most helpful starting place is to talk about the highest level of abstraction for what playing *Misfits* looks like. 
