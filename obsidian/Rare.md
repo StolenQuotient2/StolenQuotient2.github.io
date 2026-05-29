@@ -18,7 +18,7 @@ The simulacrum starts off as a small, generic looking human figurine. If the sam
 ---
 **Flash Orb** (Weapon)  
 *This perfect sphere appears to be glass, though in truth is far more durable, and swirls with lambent light.* 
-Twice between Recesses, you may prime the orb. When primed, it will flash on the wielder's command, releasing bright light and sound, like a flashbang. If this item is used during the first action of an encounter, that action has +1 Fate.  
+Twice between Recesses, you may prime the orb. When primed, it will flash on the wielder's command, releasing bright light and sound, like a flashbang. Doing so is a 1AP swift action. If this action is used during the first turn of a Situation, actions that target a blinded  has +1 Fate.  
 
 ---
 **Unlucky Coin** (Support)  

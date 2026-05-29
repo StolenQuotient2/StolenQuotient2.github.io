@@ -35,11 +35,11 @@ mess_we_made: neatly organized list of all of the things we've done
 	* Level
 	* Experience
 	* Inspiration
-* [The Play Cycle]({% link obsidian/Play_cycle_nav.md %})
+* Play_cycle_nav
 	* [Situations]({% link obsidian/Situations.md %})
 		* Entering a situation
 		* Identifying and Specifying Threats
-	* [Taking Actions]({% link obsidian/Actions_navigation.md %})
+	* [Taking Actions]({% link obsidian/The_Gameplay_Loop.md %})
 		* The Gameplay loop
 		* [ Rolling Dice]({% link obsidian/Rolling_Dice.md %})
 		* [Momentum and Complication]({% link obsidian/Momentum_and_Complication.md %})
