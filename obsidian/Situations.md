@@ -45,6 +45,7 @@ Minor Actions (1AP):
   - [Assisting] on an action without casting a spell.   
   - \**Gathering Information:* [Specifying] a presented Threat. You may also use this action for any nontrivial information gathering. You may have to make an Action Roll to gain this information. 
   - *Exerting Yourself:* Completing a nontrivial physical task, such as feats of athletics or dexterity, provided that those tasks are plausible to complete without magical assistance. 
+  - *Name For This Action*: Activating a magical item, or using a magical ability that does not cast a spell (Some items specify that using them is a Swift action, instead of Standard.)
   - Using a \[Prepared\] action that did not have its condition met this round.   
 
 Major Actions (2AP):  
