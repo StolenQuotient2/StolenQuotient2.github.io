@@ -8,10 +8,10 @@ h2 {color: rgb(138, 255, 136);}
 h3 {color: #81db99;}
 canvas {margin: auto; width:100%}
 
-table, th, td, tr {
+/* table, th, td, tr {
   border: 1px solid white;
   border-collapse: collapse;
-}
+} */
 
 /* For Phone */
 #portrait img {width:100%}
