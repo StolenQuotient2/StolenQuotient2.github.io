@@ -1,7 +1,7 @@
 ---
 share: "true"
 layout: misfits
-title: Aspects, Aspect interpretation, and Whim of Fate
+title: Aspects
 mess_we_made: aspects we've channeled
 ---
 ## Aspects
@@ -15,15 +15,16 @@ Each of the six aspects corresponds to a face on the die, with the following ass
 - *5 is **Will**, for when you decide you’re right in spite of the universe*
 and finally, 
 - *6 is for **Arcana**, for when you invoke magic's innate power against the universe*
-You may pick any two aspects *except Arcana* as your Core Aspects. 
+
+You may pick any two aspects *except Arcana* as your Core Aspects. Arcana is reserved for special circumstances. 
 
 Your two Core Aspects, in addition to the flavor aspect, determine what numbers you will be aiming for during [Whim rolls]({% link obsidian/Rolling_Dice.md %}). 
 
-The number 6 is reserved for special circumstances. 6 is the aspect of *Arcana*; for when problems are solved with magic’s innate strength. You cannot pick 6 as one of your core aspects, but you may use it in your gameplay nonetheless. 
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
 ### ***Aspect Interpretation*** 
 
-There are obviously literal interpretations of many of the aspects: An action where you are gambling or putting something up to chance is very clearly relying on Luck. An action where you are trying to use physical force or personal brawn is very clearly relying on Strength. However many of the aspects will rely on much more abstract interpretations of the aspects. Below is a chart with all of the aspects and domains where that aspect might apply. 
+There are obviously literal interpretations of many of the aspects: An action where you are gambling or putting something up to chance is very clearly relying on Luck. An action where you are trying to use physical force or personal brawn is very clearly relying on Strength. However many of the aspects will rely on much more abstract interpretations of the aspects. Below is a chart with all of the aspects and domains where that aspect might apply. This list is not exhaustive; it is meant to provide a wider picture of the associations of each aspect. 
 
 | Aspect      | Examples                                                                                                                                 |
 | :---------- | :--------------------------------------------------------------------------------------------------------------------------------------- |

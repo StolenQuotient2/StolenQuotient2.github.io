@@ -47,7 +47,7 @@ If you take a Severe injury while you are already severely injured, the new inju
 
 Since the potency of incoming injuries can be qualitative, this section provides a guide on how to assign levels to different kinds of injuries. When determining the strength of most injuries, refer to the table below for guidance. In addition, you can use the following standards:
 
-* Wreck spells that directly target a person inflict injuries equal to their potency.   
+* Damaging spells that directly target a person inflict injuries equal to their potency.   
 * Generally, non-magical, non-weapon attacks are Minor.   
 * Generally, non-magical weapon attacks are Major. 
 
