@@ -37,12 +37,10 @@ Bards start with the following:
 
 - **Miracle**: When you Heal an ally, you may remove the Severely Injured status from them in addition to the effects of healing. Once between Recesses, if an ally would die from an injury, you may spend 1 Focus to perform a Healing action on the ally before the injury takes effect. 
 
-- **Deuteragonist**: Once between Recesses, when you Assist on an action, either you or the ally you are assisting may ignore the cost of Amplifying one Augment
-
 - **Jack of All Trades**: When you take an action while not in a Situation, you may spend 2 mana to gain +1 Fate.
 
-- **Reverberate**: Spells you cast with unaugmented Duration persist for two turns after you take another action. 
-
+- **Reverberate**: Spells you cast with unaugmented Duration persist for two turns after you take another action. Spells you cast with Amplified Duration persist for one turn after you take another action. 
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 ---
 
 ### Notable Bards:
