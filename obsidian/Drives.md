@@ -20,9 +20,9 @@ Each drive gives the same mechanical benefits—focus on the details that are im
 ### ***Insight:***
 
 * You believe that the Reapers’ are the key to unlocking the secrets of magic. You want the hands on experience with magic in order to progress your studies, and perhaps even add to the advancement of arcane knowledge.   
-  * Work with your GM to describe the areas of magic you’re interested in, and the reason you’re going to the Reapers instead of the local library. What is weird, dangerous, or taboo about the magic you want to study and the way you want to study it?  
-  * Pick a personal goal for your character. How does this goal fall under Insight? What do you need to do to achieve it?  
-  * Pick a [Talent]({% link obsidian/Talents.md %}) you feel represents your character’s background, and pick a second Talent you feel represents the specific details of your Drive. Gain both of these Talents. 
+	* Work with your GM to describe the areas of magic you’re interested in, and the reason you’re going to the Reapers instead of the local library. What is weird, dangerous, or taboo about the magic you want to study and the way you want to study it?  
+	* *Pick a personal goal for your character. How does this goal fall under Insight? What do you need to do to achieve it?  
+	* Pick a [Talent]({% link obsidian/Talents.md %}) you feel represents your character’s background, and pick a second Talent you feel represents the specific details of your Drive. Gain both of these Talents. 
 
 ### ***Survival:***  
 
