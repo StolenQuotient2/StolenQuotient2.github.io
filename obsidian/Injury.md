@@ -10,18 +10,18 @@ Rather than a health point total, each character can exist in one of five states
 
 Below is a table with the five injury states, as well as the relevant consequences for being in that state. Consequences from injury states are not cumulative, so if you have the Major injury state, you do not get the consequence from the Minor injury state.
 
-|  Level  | Consequence                                                                                                                                             |
-| :-----: | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  Minor  | None                                                                                                                                                    |
-|  Major  | \-1 score to Whim rolls. This does not affect healing rolls.                                                                                            |
-| Extreme | \-2 score to Whim rolls. This does not affect healing rolls.                                                                                            |
-|  Dead   | You are dead. You cannot take actions or assist others. To continue as this character you must be resurrected. See \[Death and Resurrection\] for more. |
+|  Level  | Consequence                                                                                                                                                                         |
+| :-----: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Minor  | -1 Maximum Action Points. You are bruised or bleeding, but can push through the pain easily enough.                                                                                 |
+|  Major  | -2 Maximum Action Points. You are significantly injured, and it is substantially affecting your ability to perform complicated maneuvers.                                           |
+| Extreme | -3 Maximum Action Points. You are overwhelmingly injured, and your pain is making it hard to take even actions that would be second nature to you.                                  |
+|  Dead   | You are dead. You cannot take actions or assist others. To continue as this character you must be resurrected. See \[Death and Resurrection\] for more. {-4 Maximum Action Points.} |
 
 ### **Taking Injuries**
 
 Whenever you take a new injury, your injury state will adjust based on the strength of the injury, as well as your current injury state.   
 Firstly, when you have no injuries, taking an injury of any kind brings you to that injury state. So, if you were to take a Major injury, you become Majorly Injured. (Lethal injuries correspond to the Dead injury level).   
-When you are already injured, any additional injuries you take may cause your injuries to *Compound*, increasing your injury level. The rules for compounding injuries depend on the level of the injury compared to your current injury state. *The following descriptions refer to “Flipping a coin”. As with the Initiative, this can be replaced with any action that has a 50% success rate.*
+When you are already injured, any additional injuries you take may cause your injuries to *Compound*, increasing your injury level. The rules for compounding injuries depend on the level of the injury compared to your current injury state. (*The following descriptions refer to “Flipping a coin”. This can be replaced with any action that has a 50% success rate.*)
 
 - If the injury you are taking is of a level below your current injury level, flip a coin. If you lose the flip, go up injury states by one level.   
 - If the injury you are taking is of a level equal to your current injury level, the injuries compound, and you go up injury states by one level.   
@@ -34,7 +34,8 @@ Additionally, you can reference the table below to determine how many injury lev
 | None                          | \+1 Injury level                           | \+2 injury levels                                                          | \+3 injury levels                                                           |
 | Minor                         | \+1 injury level                           | \+1 injury level, Flip a coin. If you lose, an additional \+1 injury level | \+2 injury levels, Flip a coin. If you lose, an additional \+1 injury level |
 | Major                         | Flip a coin. If you lose, \+1 injury level | \+1 injury level                                                           | \+1 injury level, Flip a coin. If you lose, an additional \+1 injury level  |
-| Extreme                       | Flip a coin. If you lose, \+1 injury level | Flip a coin. If you lose, \+1 injury level                                 | \+1 injury level                                                            |
+| Extreme                       | Flip a coin. If you lose, \+1 injury level | Flip a coin. If you lose, \+1 injury level                                 | \+1 injury level (You die)                                                  |
+
 
 ### **Severe Injuries** 
 
