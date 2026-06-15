@@ -31,6 +31,9 @@ Costs 2 Beats. The player taking Center restores 1 Focus.
 **Meditate**  
 Costs 4 Beats. The player taking Meditate restores all Focus. 
 
+**Advance**
+Costs 1 Beat. Spend EXP to gain [Advancements]({% link obsidian/Player_Advancement.md %}). The player taking Advance may gain any number of advancements when taking this measure, provided they have sufficient EXP. 
+
 **Acquire**  
 Costs X Beats. Describe an item, and then spend a number of beats equal to the rarity value (1 for common, 2 for uncommon, etc.) of the item if it is reasonable to acquire (GM discretion). Then describe how you are getting access to the item. If you are buying the item, spend Coin equal to the cost of the item. If you are acquiring the item in some other way, spend beats equal to the rarity value of the item again. Cast any spells necessary to do so.   
 **Sell**  
