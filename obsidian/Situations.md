@@ -13,11 +13,11 @@ The party exits the current Situation and returns to Free Play as soon as there 
 
 ## *Identifying and Specifying Threats*
 
-During a Situation, any time the GM narrates the events of the current scene, the party will have a chance to *Identify Threats*. The party describes and makes a short list of the most immediate problems they perceive in the current scene. <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+During a Situation, any time the GM narrates the events of the current scene, the party will have a chance to determine what *Threats* exist in the current situation. The party describes and makes a short list of the most immediate problems they perceive in the current scene. <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
 Importantly: the party can fail to identify every Threat in a current situation. The GM should make every effort to narrate the scene in such a way that every threat in the scene is identifiable, but need not make any indication to the players that their list of Threats is complete (e.g. there may be a hidden trap that is only subtly indicated). Similarly, the party may accidentally over-identify threats--"identifying" Threats which do not actually exist in the current scene (e.g. a party member might suspect a trap or ambush when there are none). A Threat which doesn't "actually" exist, should still be treated as a Threat for all mechanical purposes.
 
-Some special abilities and Talents allow the players to automatically identify Threats. If this is the case, the GM should enumerate any Threats that fit the condition of the relevant ability(s). However, these listed Threats need not have specific details (e.g. the Alert Talent automatically identifies any Threat which is an attack on one or more party members--but it does not require that the details of the attack be specified). When an ability says that it *Specifies* a Threat, it both identifies the Threat AND gives specific information about it. The details of a 
+Some special abilities and Talents  Threats. If this is the case, the GM should enumerate any Threats that fit the condition of the relevant ability(s). However, these listed Threats need not have specific details (e.g. the Alert Talent automatically identifies any Threat which is an attack on one or more party members--but it does not require that the details of the attack be specified). When an ability says that it *Specifies* a Threat, it both identifies the Threat AND gives specific information about it. The details of a 
 
 Identifying and Specifying threats also should remove any over-specified Threats that fall under the conditions of the relevant ability(s). 
 
@@ -71,7 +71,7 @@ Preparing an action is a Swift action, regardless of how many action points you 
 
 The only condition on the description of your action is that it must align with the amount of action points you are spending--you cannot change this number down the line. The trigger has to be specific enough that it won't just happen ambiently (e.g. "when a turn passes" is not a legal trigger). 
 
-Once you have prepared an action, you may take a Standard Action on any future turn in order to use it. If the triggering condition was met immediately prior to taking the action, doing so costs 0AP. If not, taking the prepared action can still be done, but costs 1AP. 
+Once you have prepared an action, you may take a Standard Action on any future turn in order to use it. If you know that the triggering condition was met immediately prior to taking the action, doing so costs 0AP. If not, taking the prepared action can still be done, but costs 1AP. 
 
 ### ***Translating Ability Timings*** 
 0-3AP actions can be done in Free Play without concern. Effects that say “once per round” translate to “once per scene”. Abilities that say “once per situation” do not apply in free play. Abilities that say “once between rests/recesses” work as intended
