@@ -11,9 +11,9 @@ As a new player, you have three major things to decide on. Your *[Aspects]({% li
 
 - Your *Aspects* determine the qualities of your character that you rely on to solve problems. You will pick two of them to be your Core Aspects, which the qualities you embody most readily. 
 
-- Your *Origin* determines the nature of your spellcasting, and determines the list of special abilities you will choose from. Origins also determine your starting mana and Focus, as well as what Techniques you can choose down the line. 
+- Your *Origin* determines the nature of your spellcasting, and determines the list of special abilities you will choose from. Origins also determine your starting mana and Focus, as well as what Techniques you can choose down the line. Your Origin may also provide some additional miscellaneous benefits as well, including talents or magical items, as part of your starting abilities.
 
-- Your *Drive* is a description of your personal goals and background before joining the Reapers and setting off on your adventures. Your Drive will also allow you to pick some starting [Talents]({% link obsidian/Talents.md %}). 
+- Your *Drive* is a description of your personal goals and background before joining the Reapers and setting off on your adventures. Your Drive will also allow you to pick two different [Talents]({% link obsidian/Talents.md %}) to start off with, in addition to any you may gain from your Origin. 
 
 You may pick these three qualities in any order. However, it is recommended that you pick your Aspects first, your Origin second, and your Drive last—the choices you make for Aspects and Origin may influence what Drive you think fits best for your character. 
 

@@ -55,8 +55,8 @@ Demigods start with the following:
 
 
 ### Techniques that include Demigod:
-- [Avatar]({% link obsidian/Avatar.md %}) (Demigod + Demigod)
-- [Gemini]({% link obsidian/Gemini.md %}) (Demigod + Demigod)
-- [Enigma]({% link obsidian/Enigma.md %}) (Demigod + Ley)
-- [Obliterator]({% link obsidian/Obliterator.md %}) (Demigod + Spellblade)
-- [Displacer]({% link obsidian/Displacer.md %}) (Demigod + Bard)
+- [Demigod_Demigod_1]({% link obsidian/Demigod_Demigod_1.md %}) (Demigod + Demigod)
+- [Demigod_Demigod_2]({% link obsidian/Demigod_Demigod_2.md %}) (Demigod + Demigod)
+- [Demigod_Ley]({% link obsidian/Demigod_Ley.md %}) (Demigod + Ley)
+- [Demigod_Spellblade]({% link obsidian/Demigod_Spellblade.md %}) (Demigod + Spellblade)
+- [Demigod_Bard]({% link obsidian/Demigod_Bard.md %}) (Demigod + Bard)

@@ -29,8 +29,6 @@ Ritualists start with the following:
 
 - **Ghostwriting**: Once between Recesses, you may cast a spell by gesturing the shape of runes into the air. Spells cast this way can affect any targets you can see.   
 
-- ~~**Three Steps Ahead**: Prepared Actions you take cannot be modified by Prepared Threats.  ~~   Deprecated
-
 - **Ready for Anything**: When a Situation starts, you may Prepare a spell without spending AP. (it counts as being prepared during the current turn).   
 
 - **Channel**: Whenever you cast a spell outside of a Situation, or one that was prepared more than 2 actions ago, you may ignore the additional cost of Amplifying one Augment of your choice.  
@@ -41,7 +39,10 @@ Ritualists start with the following:
 
 - **Arcane Counterweighting**: Casting a Prepared, Major spell costs 2 mana, regardless of any augments that are Amplified or Diminished, or any other effects that influence mana cost. 
 
-- **Unlimited Patience**: You have no limit on the number of Action Points you may have at once during a Situation. 
+- **Unlimited Patience**: You have no limit on the maximum number of Action Points you may have at once during a Situation. This effect allows you to ignore AP maximum penalties from injuries. 
+
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+
 
 ---
 

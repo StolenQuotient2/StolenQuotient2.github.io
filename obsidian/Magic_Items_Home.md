@@ -4,6 +4,13 @@ title: Magical Artifacts
 layout: misfits
 mess_we_made: mess we made
 ---
+
+## Owning Magical Items
+
+{TLDR something about bound magical items. I imagine there should be some kind of cap, but im not sure how many it should be.}
+
+
+
 ## **Item Tags** 
 
 As help organizing this section, every item here will be tagged with one of the following tags:
