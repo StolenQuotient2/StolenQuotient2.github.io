@@ -11,15 +11,17 @@ The party exits Free Play and enters a *Situation* when there is some quantifiab
 
 The party exits the current Situation and returns to Free Play as soon as there are no threats left to the players. 
 
-## *Identifying and Specifying Threats*
+## Threats
 
 During a Situation, any time the GM narrates the events of the current scene, the party will have a chance to determine what *Threats* exist in the current situation. The party describes and makes a short list of the most immediate problems they perceive in the current scene. <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
 Importantly: the party can fail to identify every Threat in a current situation. The GM should make every effort to narrate the scene in such a way that every threat in the scene is identifiable, but need not make any indication to the players that their list of Threats is complete (e.g. there may be a hidden trap that is only subtly indicated). Similarly, the party may accidentally over-identify threats--"identifying" Threats which do not actually exist in the current scene (e.g. a party member might suspect a trap or ambush when there are none). A Threat which doesn't "actually" exist, should still be treated as a Threat for all mechanical purposes.
 
-Some special abilities and Talents  Threats. If this is the case, the GM should enumerate any Threats that fit the condition of the relevant ability(s). However, these listed Threats need not have specific details (e.g. the Alert Talent automatically identifies any Threat which is an attack on one or more party members--but it does not require that the details of the attack be specified). When an ability says that it *Specifies* a Threat, it both identifies the Threat AND gives specific information about it. The details of a 
+## *Identifying and Specifying Threats*
 
-Identifying and Specifying threats also should remove any over-specified Threats that fall under the conditions of the relevant ability(s). 
+Some special abilities and Talents *Identify* Threats. If this is the case, the GM should enumerate any Threats that fit the condition of the relevant ability(s), thus preventing the players from being unaware of any relevant dangers. However, these listed Threats need not have specific details (e.g. the Alert Talent automatically Identifies any Threat which is an attack on one or more party members--but it does not require that the details of the attack be specified, just that an attack is happening). When an ability says that it *Specifies* a Threat, it both identifies the Threat AND gives specific information about it. The details of a specified threat should be fully known to the players. 
+
+Identifying and Specifying threats also should remove any over-specified Threats that fall under the conditions of the relevant ability(s). If a player with the Alert Talent thinks that an enemy will attack them, and the enemy will not, that player should be informed. Once again, no other details need be provide—the player must only know that that enemy does not plan to attack. 
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
