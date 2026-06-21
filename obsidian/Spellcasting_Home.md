@@ -11,6 +11,17 @@ Every spell begins with a verbal description of the spell effect. There are many
 In the world of Panops, a mage casting a spell needs to use both an Audible and Somatic component, meaning that the mage must say something, or make a distinct sound, and also make a gesture with their hands or other objects. 
 
 ---
+
+## Requirements of Spellcasting
+
+In order to cast a spell, you must have the following:
+- A *Somatic* Component
+- An *Audible* Component
+- Sufficient Mana
+
+A Somatic component is a physical motion you make, almost always with your hands or arms. An Audible component is a sound, but it need not be a set of spoken words. Having sufficient mana depends on the spell being cast, and will be the subject of the rest of this section. 
+
+
 ## Mana Cost, Augments, and Potency
 
 Every spell costs 2 mana at base, and must cost at least 1 mana after modifications. This number is increased and decreased according to which Augments *Amplify* or *Diminish* your spell. When an augment Amplifies your spell, multiply its cost by 2\. When an augment Diminishes your spell, reduce its cost by 1\. In all cases, multiplicative effects to spell costs apply before additive ones. This means you should apply *all* Amplifications first, then *all* Diminutions. {We obey PEMDAS here.}   
