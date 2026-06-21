@@ -20,7 +20,7 @@ Talents can be taken by any origin in place of an origin ability. Some of these 
 	-  Pick an Augment. When you Amplify that Augment, the cost of your spell only increases by 1.5x (rounded down) as opposed to 2x.   
 	- You may take this Talent any number of times, but must choose a different Augment each time.   
 - **Quickshot**  
-	- When you cast a spell that wouldn’t otherwise be affected by the Snap augment, you may choose to Amplify the Snap augment and reduce the AP cost of casting the spell by 1, to a minimum of 1\.   
+	- When you cast a spell that wouldn’t otherwise be affected by the Snap augment, you may choose to Amplify the Snap augment to cast the spell as a Swift action reduce the AP cost of casting the spell by 1, to a minimum of 1, or, .   
 - **Martial**  
 	- You know how to wield a variety of weapons, and fight better even without one. You do not take difficulty penalties for attacking with weapons you’re unfamiliar with, <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 - **Stealthy**  
