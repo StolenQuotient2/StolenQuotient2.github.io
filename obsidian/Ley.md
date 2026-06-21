@@ -27,6 +27,7 @@ Leys start with the following:
 - **Deepest Reserves (Starting Ability)**: When you [Attune]({% link obsidian/Attuning.md %}) outside of Recess, you do not restore mana. Whenever you would gain maximum mana, gain double the amount listed. Whenever you cast an Extreme spell, you may spend 1 Focus to gain 1 Fate. 
  
 - **Perpetual Flow**: At any time, you may spend 5 mana to restore 1 Focus.   
+
 - **Surge of Control**: When you Full-Attune, for the next spell you cast, Amplifying Augments only increases the cost of the spell by 1.5x (rounded down) instead of 2x.   
 
 - **Confluence**: Whenever you Attune, you may have any number of other allies also Quick-Attune. This ability does not trigger other instances of itself.   
