@@ -21,6 +21,7 @@ In order to cast a spell, you must have the following:
 
 A Somatic component is a physical motion you make, almost always with your hands or arms. An Audible component is a sound, but it need not be a set of spoken words. Having sufficient mana depends on the spell being cast, and will be the subject of the rest of this section. 
 
+In addition, a spell cannot be cast if it violates the rules of [The Veil]({% link obsidian/The_Veil.md %}). 
 
 ## Mana Cost, Augments, and Potency
 
