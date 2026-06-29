@@ -30,11 +30,11 @@ Practical and stylish. Any liquid you store in it is purified, removing any pois
 
 ___
 **Swift Blessing** (Support)  
-A magically preserved feather strung on a necklace. You may cast minor aid spells as a Quick action for +1 mana. 
+A magically preserved feather strung on a necklace. You may cast Minor spells as a Swift action by paying an additional 2 mana. 
 
 ---
 **Gambler’s Guarantee** (Support)  
-A playing card that has a different face each time you look at it. <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+A playing card that has a different face each time you look at it. When you fail on a roll by 2 or more, the card grants you +1 Fate until you succeed on another roll. 
 
 ---
 **Broken Pocketwatch** (Guard)  
@@ -57,3 +57,6 @@ Plain shoes that grant the user improved balance and grip well even on extremely
 A pathstone is a large, circular disc covered in runes. It is usually set in the ground of whatever location it is placed in. After stepping on the pathstone for the first time, spells you cast to teleport yourself or objects to the Pathstone always succeed, as long as the total volume of objects teleporting fits within the footprint of the pathstone. 
 
 ---
+
+**Suppressor** (Weapon)
+As the bread-and-butter detainment tool of the Council, the Suppressor is an efficient and nonlethal weapon for single targets. A suppressor is an arm-mounted band that is about a half inch thick. When activated, it emits a beam that prevents a target from moving, speaking, or casting spells. It also prevents the user from casting spells, but not from moving or speaking. 
