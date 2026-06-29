@@ -26,3 +26,5 @@ IMPORTANT FIGURES:
 - 
 
 UNIQUE MAGIC ITEMS:
+
+- Suppressor (Uncommon)
