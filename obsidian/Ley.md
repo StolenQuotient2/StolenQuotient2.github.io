@@ -30,7 +30,7 @@ Leys start with the following:
 
 - **Surge of Control**: When you Full-Attune, for the next spell you cast, Amplifying Augments only increases the cost of the spell by 1.5x (rounded down) instead of 2x.   
 
-- **Confluence**: Whenever you Attune, you may have any number of other allies also Quick-Attune. This ability does not trigger other instances of itself.   
+- **Confluence**: Whenever you Attune, you may have any number of other allies also Quick-Attune without spending Focus. This ability does not trigger other instances of itself.   
 
 - **Siphon**: Once between Recesses, when you successfully attack a spellcaster, you may spend 1 Focus. If you do, restore mana equal to half of your maximum mana. You may also use this effect on allies without making an attack; the ally loses mana equal to the mana you gained instead.   
 
