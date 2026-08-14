@@ -33,7 +33,7 @@ Bards start with the following:
 
 - **Name Drop**: You are especially recognizable, and are beloved by many. Work with your GM to decide the nature of your fame. In populated areas, you can easily find people who know who you are, and will perform small tasks at your behest. Moreover, during Recess, gain beats equal to the number of Bard abilities you have; these beats can only be spent on tasks your followers can perform on your behalf. *{“I’ll have it for free–I’m an influencer <3”}*  
 
-- **Polyphony**: You may sustain any number of ongoing spell effects, as long as each spell affects a different set of targets. {*In mathematics, specifically probability theory, we would say the spells are "mutually singular".*}
+- **Polyphony**: You may sustain any number of ongoing spell effects, as long as each spell affects entirely different sets of targets. {*In mathematics, specifically probability theory, we would say the spells are "mutually singular" since they only exist on disjoint sets.*}
 
 - **Miracle**: When you Heal an ally, you may remove the Severely Injured status from them in addition to the effects of healing. Once between Recesses, if an ally would die from an injury, you may spend 1 Focus to perform a Healing action on the ally before the injury takes effect. 
 

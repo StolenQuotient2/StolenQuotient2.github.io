@@ -16,6 +16,7 @@ mess_we_made: runes we've scribed
 Ritualists start with the following:
 - 8 maximum mana
 - 4 maximum Focus
+- The *Runic* [Talent]({% link obsidian/Talents.md %}).
 - The *Scrivener* ability. 
 - Another ability or [Talent]({% link obsidian/Talents.md %}) of your choice. 
 

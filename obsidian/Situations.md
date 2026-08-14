@@ -7,7 +7,7 @@ mess_we_made: problems we said weren't our fault
 ## **Entering a Situation**
 
 
-The party exits Free Play and enters a *Situation* when there is some quantifiable threat or chance of failure in the current scene. When a Situation starts, each player gets 2 [Action Points], and may take actions using those resources. As in free play, at the start of the Situation and after each action, the GM will narrate the current environment. In a situation, however, the players will have an explicit beat to identify [Threats]. 
+The party exits Free Play and enters a *Situation* when there is some quantifiable threat or chance of failure in the current scene. When a Situation starts, [Action Points] are given to the party, and players may take actions using those resources. As in free play, at the start of the Situation and after each action, the GM will narrate the current environment. In a situation, however, the players will have an explicit beat to identify [Threats]. 
 
 The party exits the current Situation and returns to Free Play as soon as there are no threats left to the players. 
 
@@ -28,7 +28,7 @@ Identifying and Specifying threats also should remove any over-specified Threats
 
 ## Action Points
 
-Once Threats have been established, actions during a Situation take the same form as any other kind of action, except with an additional cost of *Action Points* (AP). Each player starts the Situation with 2, and can have a maximum of 4 at any given time. AP costs are listed below. 
+Once Threats have been established, actions during a Situation take the same form as any other kind of action, except with an additional cost of *Action Points* (AP). At the start of a situation, the party gets 2 AP per player to be distributed however they wish among the party. Each player can have a maximum of 4 at any given time. AP costs are listed below. 
 
 Most actions you will take are *Standard Actions*. Whenever a player takes a standard action, each player who did *not* participate in that action gains 1 AP. After each Standard action, the current scene progresses, and any relevant Threats may inflict their consequences on the players. Players may also take *Swift Actions*, which do not grant AP, and do not progress the scene.<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
@@ -39,6 +39,7 @@ Free Actions (0AP):
   - \*Short commands or messages to non-party members  
   - \*Walking or running short distances.   
   - Using a \[Prepared\] action that had its condition met this round.  
+  - \**Push your Limits* - Spend 1 Focus to gain 1 AP. 
   - *Waiting* – Do nothing (but trigger the AP bonus for taking a Standard Action). 
   - \*[Quick-Attuning]({% link obsidian/Attuning.md %}). 
 
