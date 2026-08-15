@@ -17,7 +17,7 @@ Talents can be taken by any origin in place of an origin ability. Some of these 
 {Whenever a talent tells you that you may reroll, you can only reroll a total of once per action.}
 
 - **Specialized Spellcaster**  
-	-  Pick an Augment. When you Amplify that Augment, the cost of your spell only increases by 1.5x (rounded down) as opposed to 2x.   
+	-  Pick an Augment. When you cast a spell with that Augment, the augment only increases the cost of your spell by +1; if you augment both directions in the row of your chosen augment, the total cost of the spell is only multiplied by 1.5 (rounded up) instead of 2 when the doubling effect is applied.   
 	- You may take this Talent any number of times, but must choose a different Augment each time.   
 - **Quickshot**  
 	- When you cast a spell that wouldn’t otherwise be affected by the Snap augment, you may choose to Amplify the Snap augment to cast the spell as a Swift action, or to reduce the AP cost of casting the spell by 1, to a minimum of 1.   
