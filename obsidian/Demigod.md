@@ -39,12 +39,12 @@ Demigods start with the following:
 - **Seventh Sense**: You have a passive awareness and understanding of magical and nonmagical effects that fall within your domain. You have an acute sensation whenever such an effect is in your immediate vicinity. You may spend 1 Focus to gain intricate details of any effect that falls within your domain in your vicinity, and to detect effects in your domain over a larger area.   
 
 - **Domain Mastery**: When using you spend Focus as part of an action where you cast a spell, gain one of the following effects.   
-	- Ignore the cost of Amplifying one Augment.  
-	- Double the effect of Diminishing for all Augments. 
+	- Ignore the cost of Amplifying or Diminishing one augment
+	- Reduce the base cost of your spell by 1
 
-- **Vengeful**: You may amplify Power when casting a Minor spell, and injuries you inflict from spells are Severe.   
+- **Vengeful**: Injuries you inflict from spells are Severe. 
 
-- **Decree**: Spells you cast do not need a Somatic component. This ability cannot be used on spells that have Amplified the Subtle augment. 
+- **Decree**: Spells you cast do not need a Somatic component. This ability cannot be used on spells that have augmented the Local augment. 
 
 ---
 
