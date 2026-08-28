@@ -1,7 +1,7 @@
 ---
 share: "true"
 layout: misfits
-title: TBD
+title: Channeler
 mess_we_made: mess we made
 ---
 *QUOTE*
