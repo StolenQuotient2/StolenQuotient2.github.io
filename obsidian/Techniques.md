@@ -26,5 +26,4 @@ Each Technique below lists its Name, the Origins it is associated with, and the 
 - [Bard_Ritualist]({% link obsidian/Bard_Ritualist.md %})
 - [Ritualist_Ritualist_1]({% link obsidian/Ritualist_Ritualist_1.md %})
 - [Ritualist_Ritualist_2]({% link obsidian/Ritualist_Ritualist_2.md %})
-- 
 
