@@ -4,17 +4,20 @@ title: Waveshaper
 layout: misfits
 mess_we_made: mess we made
 ---
+*quote*
+
+---
+
 * ### ***Waveshaper ([Ley]({% link obsidian/Ley.md %})+[Bard]({% link obsidian/Bard.md %})) \[Erin Gibbs\]*** 
 
-  * “Quote”  
-  * *The Technique of the Waveshaper*  
-  * *The Technique of the*   
-* The following are abilities you may take as a Waveshaper:  
-* GIMMICK: Assisting on actions by casting a spell costs \-1AP, to a minimum of 1\.   
-  * Overdrive: When you assist an ally making an attack by casting a spell, injuries they inflict are Severe.   
-  * Reverb: When you assist an ally that is casting a spell, you may sustain the spell effect on behalf of that ally.   
-  * Compression: When you Heal an ally or protect them by casting a spell, as a sustained spell effect, you may prevent injuries they take from compounding.   
-  * Chorus: Whenever you Attune, any number of allies you choose gain 1 Temporary Focus.  
-  * Feedback: Whenever you counter a spell as part of resolving a threat, you may inflict an injury of severity equal to the level of the nullified threat by paying mana equal to twice the base cost of the associated potency of spell. (For example, if you nullify a Major Threat, you can inflict a Major injury by paying twice the base cost for a Major spell)  
-  *   
-  * 
+- **WAVESHAPER1 (Starting Ability):** When you take WAVESHAPER1, lose the Deepest Reserves (Ley) and Harmony (Bard) abilities if you had them. If you lost the Harmony (Bard) ability in this way, double your maximum mana. Additionally, gain the Parallel Processing (Waveshaper) ability. When you take an Entwined action or an action that explicitly sets up another players action, you may spend 1 Focus to gain 1 Fate. 
+
+- **Parallel Processing:** When you participate in an Entwined action, after Fate has been calculated, for each person in the entwined action, set their Fate to the maximum of the Fate values across everyone in the action (TDLR: everyone gains fate equal to the maximum instead of calculating individually)
+
+- **Overdrive:** Injuries inflicted through material means during Entwined actions you participate in are Severe (e.g. a sword, even if magically enhanced, is material. a fireball is not). When you participate in an Entwined action by casting a spell, you may choose to have the targets of any spells you cast become physically faster and stronger in addition to the spells other effects.  
+
+- **Reverb:** After an ally casts a Sustained spell, they may choose to have you gain control of it. When you or an ally casts a spell as part of an Entwined action you participate in, if that spell does not amplify Extend, you may have that spell last for an additional action (up to 2-3 actions, from 1-2). 
+
+- **Feedback:** When you participate in an Entwined action, distribute AP among your allies equal to the number of unique participants who succeeded on the action. 
+
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
