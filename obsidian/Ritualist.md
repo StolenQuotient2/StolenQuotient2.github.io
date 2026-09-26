@@ -62,7 +62,7 @@ Start with: 8 mana, 4 Focus, *Runic* Talent, *Engraver* (Ritualist-B), and anoth
 
 - **Cascade Failure**: When you take an action that involves temporarily bypassing a ward or magical protection, you may spend 2 Focus. If you succeed on the action, the ward or magical protection is destroyed instead of being bypassed. 
 
-- **Guy in the Chair**: You possess *exceptionally* detailed knowledge about magic technology, and how it works. Any publicly accessible knowledge about magic, and some privately-known facts, are available to you, and you may incite this ability to have your GM give you detailed information about a magical item, or an ongoing effect that comes from a magical item, as long as that knowledge could be in your purview.
+- **Guy in the Chair**: You possess *exceptionally* detailed knowledge about magic technology, and how it works. Any publicly accessible knowledge about magic, and some privately-known facts, are available to you, and you may invoke this ability to have your GM give you detailed information about a magical item, or an ongoing effect that comes from a magical item, as long as that knowledge could be in your purview.
 
 - **Ill-Advised Shorthand**: You may score *Chaos* (5 unique aspects) on Whim rolls, which gives a score of 5\. When you do, take a minor injury if you were casting a spell. (Chaos includes the combinations 12345, 12346, 12356, 12456, 13456, and 23456.) {*(looking at a scribble) that says “paracetamol”*}  
 
