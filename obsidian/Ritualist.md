@@ -22,7 +22,7 @@ Ritualists start with the following:
 
 ---
 
-## Ritualist Abilities:
+## Ritualist {(Ley)} Abilities:
 
 * **Scrivener (Starting Ability)**: Your spells require a surface to write on, and can only originate from or affect targets in contact with that surface. Whenever you cast a spell that was prepared, or had time to be set up in some other way, you may spend 1 Focus to gain 1 Fate. 
 
@@ -44,6 +44,29 @@ Ritualists start with the following:
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
+---
+
+# Ritualist (B-side)
+
+{This section is for an alternate version of the Ritualist origin, to be used in Alpha/Beta testing.}
+
+Start with: 8 mana, 4 Focus, *Runic* Talent, *Engraver* (Ritualist-B), and another ability or talent of your choice. 
+
+- **Engraver (Starting Ability):** You cast spells by tracing runes with tip of your finger, and your magic must travel along surfaces in order to find its target; spells you cast can only target things touching surfaces you are in contact with, or spells affecting those things. Whenever you cast a Minor spell, you may spend 1 Focus to gain 1 Fate. 
+ 
+- **Trojan:** You are aware of subtle vulnerabilities in magical protections that others might not notice. When you attempt to nullify or disrupt a spell or magical effect using a Minor spell, gain +1 Fate. 
+
+- **Flick of the Wrist**: Minor spells cost -1AP (down to 1AP, at base). 
+
+- **Torrent**: Once between Recesses, spend any amount of Focus as a 4AP action. Quick-attune that many times, and then cast as many spells as you'd like from the resulting pool of mana.  {Needs rephrasing.}
+
+- **Cascade Failure**: When you take an action that involves temporarily bypassing a ward or magical protection, you may spend 2 Focus. If you succeed on the action, the ward or magical protection is destroyed instead of being bypassed. 
+
+- **Guy in the Chair**: You possess *exceptionally* detailed knowledge about magic technology, and how it works. Any publicly accessible knowledge about magic, and some privately-known facts, are available to you, and you may incite this ability to have your GM give you detailed information about a magical item, or an ongoing effect that comes from a magical item, as long as that knowledge could be in your purview.
+
+- **Ill-Advised Shorthand**: You may score *Chaos* (5 unique aspects) on Whim rolls, which gives a score of 5\. When you do, take a minor injury if you were casting a spell. (Chaos includes the combinations 12345, 12346, 12356, 12456, 13456, and 23456.) {*(looking at a scribble) that says “paracetamol”*}  
+
+- **Cloud-Based (formerly, Ghostwriting)**: Once between Recesses, you may cast a spell by gesturing the shape of runes into the air. Spells cast this way can affect any targets you can see.   
 
 ---
 
@@ -54,3 +77,6 @@ TBD
 ## Techniques that include Ritualist:
 
 TBD
+
+
+
