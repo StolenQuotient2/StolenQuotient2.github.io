@@ -46,7 +46,7 @@ Spellblades start with the following:
 
 ---
 
-### Kirpara (Spellblade B-side)
+## Kirpara (Spellblade B-side)
 
 {This section is for an alternate version of the Spellblade origin, to be used in Alpha/Beta testing.}
 
