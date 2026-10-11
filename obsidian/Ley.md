@@ -28,7 +28,7 @@ Leys start with the following:
  
 - **Perpetual Flow**: At any time, you may spend 5 mana to restore 1 Focus.   
 
-- **Surge of Control**: When you Full-Attune, for the next spell you cast, Amplifying Augments only increases the cost of the spell by 1.5x (rounded down) instead of 2x.   
+- **Surge of Control**: When you Full-Attune, for the next spell you cast, Amplifying Augments only increases the cost of the spell by +1 instead of +2.   
 
 - **Confluence**: Whenever you Attune, you may have any number of other allies also Quick-Attune without spending Focus. This ability does not trigger other instances of itself.   
 
@@ -46,6 +46,31 @@ Leys start with the following:
 - **Heightened Concentration**: Once between Recesses, you may Attune without spending Focus.
 
 ---
+## Salvo (Ley B-side)
+
+{This section is for an alternate version of the Ley origin, to be used in Alpha/Beta testing.}
+
+Start with: 12 max mana, 3 max focus, the *Take Aim* ability, and another ability or Talent of your choice. 
+
+- **Take Aim (Starting Ability)**: When you Attune outside of Recess, you do not restore mana. Whenever you cast a spell that takes the form of a projectile, you may spend 1 Focus to gain 1 Fate. 
+
+- **Barrage**: When you cast a spell that creates multiple projectiles that all share a target, gain 1 Fate. 
+
+- **Multishot**: Whenever you Full-Attune, the next projectile spell you cast creates additional copies of itself. Each new copy can have a unique target. For each copy you make, pay 2 mana. If you make two or more additional copies, take a -1 Fate penalty as well. 
+
+- **Fan the Hammer**: Once between Recesses, you may spend 4AP to cast any number of spells you wish as a single Standard Action, as long as you have the mana for all of them. 
+
+- **Mulligan**: When you take an action that involves casting a projectile spell, restore 2 mana if the action fails. 
+
+- **Sharpshooter:** You do not suffer difficulty or Fate penalties for choosing targets of spells that are particularly small, far, or specific, as long as the spell you are casting can theoretically hit the target.
+
+- **Lock and Load (formerly: Surge of Control)**: When you Full-Attune, for the next projectile spell you cast, applying Augments only increases the cost of the spell by +1 instead of +2.    
+
+- **Heightened Concentration**: Once between Recesses, you may Attune without spending Focus.
+
+
+---
+
 ### Notable Leys:
 
 TBD
