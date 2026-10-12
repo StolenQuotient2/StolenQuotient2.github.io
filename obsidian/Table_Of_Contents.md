@@ -26,6 +26,7 @@ mess_we_made: neatly organized list of all of the things we've done
 			* Threats
 		* Combat
 			* [Injury]({% link obsidian/Injury.md %})
+		* [The_Cold_Open]({% link obsidian/The_Cold_Open.md %})
 		* [Recess]({% link obsidian/Recess.md %})
 	*  [Rolling Dice]({% link obsidian/Rolling_Dice.md %})
 * Magic
