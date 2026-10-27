@@ -60,3 +60,44 @@ Demigods start with the following:
 - [Demigod_Ley]({% link obsidian/Demigod_Ley.md %}) (Demigod + Ley)
 - [Demigod_Spellblade]({% link obsidian/Demigod_Spellblade.md %}) (Demigod + Spellblade)
 - [Demigod_Bard]({% link obsidian/Demigod_Bard.md %}) (Demigod + Bard)
+
+
+---
+
+## Herald (Demigod B-Side)
+
+{This section is for an alternate version of the Demigod origin, to be used in Alpha/Beta testing.}
+
+Start with: 6 mana, 5 Focus, the *Harken Unto Me* ability, and another ability or talent of your choice. 
+
+- **Harken Unto Me (Starting Ability):** Work with your GM to pick a *Calling* for your magic to reside in. Spells you cast must enact or create the elements of your Calling\*. Whenever you take an action to enact your Calling, you may pay 1 Focus to gain 1 Fate. 
+
+- **Be Not Afraid (formerly: Absolute Dominion)**: You cannot be injured by magical or nonmagical effects that enact your Calling, even if you are not the one enacting them. You may pay 1 Focus to transfer this benefit to an ally until the next Standard Action. 
+
+- **Divine Retribution (formerly: Concentrated Will/Vengeful)**: If an enemy has taken an action that directly opposes your Calling (e.g. by nullifying a spell you cast), you may spend 2AP and 1 Focus to nullify any spells they are casting as part of the action. If you did not nullify any spells in this way, until your next Recess, injuries you inflict upon them are Severe
+
+- **Make Manifest (formerly: Decree):** Once between Recesses, you may cast a spell without an Audible or Somatic component. 
+
+- **Deliverance:** Attacks you make that enact your calling are less influenced by magical resistances. When you incapacitate a person immediately after they acted to oppose your calling, restore all mana. 
+  
+- 
+  
+  
+\*{On the difference between a Calling and a Domain: 
+- While analogous concepts, the idea of a Calling is that it is a more conceptual object that guides your magic, rather than a fundamental criterion of it. 
+- The Calling determines what your spell *does* rather than *how it does it*. In particular, you have to have spells that "create" more of your Calling in an abstract sense. 
+- For example, a Herald of Fire, would have to *create fire* with every spell they cast, whereas a Demigod of Fire can, for example, put a fire out. 
+- Conversely, a Herald of Safety can be quite flexible, as long as they are protecting or comforting those around them, whereas I'm not sure what a Demigod of Safety would even be able to do.
+- You can also do some demigod fuckery with callings. A Herald of Enlightenment can almost certainly create a blinding light, but it can also reveal information or give intelligence. 
+- Some example Callings which may or may not appear on NPCS, and serve as potential inspiration:
+	- Herald of Life, Herald of Hope --both general support mages
+	- Herald of Destruction, Herald of Decay --both general dps mages
+	- Herald of the Unknown -- Can create secrets, rumors, blinding areas, general confusion, etc. 
+	- Herald of Entropy -- While too general for a demigod, Entropy serves as an appropriate calling for a Herald, since they have to enact entropy in the world. 
+	- Herald of the Singularity -- Can do some bullshit, but only bullshit. I'm leaving this here as an example but not an explanation
+	- Herald of the God-King, Herald of the Duskwalker, Herald of the Dreamweaver --  Heralds who enacts the will of their chosen Patron. The Patron must be an *exceedingly* powerful mage for a Herald to draw their magic from this Calling.
+	- Herald of the Squirrels -- I'm not letting you play this one. 
+	- Herald of Trains -- see asdfmovie by TomSka. 
+	- Herald of Transport -- Warpmage. May or may not be able to summon trains. 
+	- Herald of the Bit -- this is me. 
+I kinda got distracted at the end there. }
