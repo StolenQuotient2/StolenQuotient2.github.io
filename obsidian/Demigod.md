@@ -76,7 +76,7 @@ Start with: 6 mana, 5 Focus, the *Harken Unto Me* ability, and another ability o
 
 - **Divine Retribution (formerly: Concentrated Will/Vengeful)**: If an enemy has taken an action that directly opposes your Calling (e.g. by nullifying a spell you cast), you may spend 2AP and 1 Focus to nullify any spells they are casting as part of the action. If you did not nullify any spells in this way, until your next Recess, injuries you inflict upon them are Severe
 
-- **Make Manifest (formerly: Decree):** Once between Recesses, you may cast a spell without an Audible or Somatic component. 
+- **Make Manifest (formerly: Decree):** Once between Recesses, you may cast a spell without Audible and Somatic components. 
 
 - **Deliverance:** Attacks you make that enact your calling are less influenced by magical resistances. When you incapacitate a person immediately after they acted to oppose your calling, restore all mana. 
   
