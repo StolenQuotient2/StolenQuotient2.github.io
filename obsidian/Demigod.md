@@ -80,7 +80,9 @@ Start with: 6 mana, 5 Focus, the *Harken Unto Me* ability, and another ability o
 
 - **Deliverance:** Attacks you make that enact your calling are less influenced by magical resistances. When you incapacitate a person immediately after they acted to oppose your calling, restore all mana. 
   
-- 
+- **Intervention:** Once between Recesses, when you participate in an Entwined action that fails, you may choose to protect your allies from the consequences of failing. Describe how you enact your Calling to shield your allies from harm.  
+
+- **Worship:** During Recess, you may give a *Sermon* for 8 Beats. Make a Whim roll. If you score higher than the number of Followers you have, gain a Follower. Each Follower you have grants you +1 Beat during Recess. If you fail the Whim roll, then the Church hears about your cult and dispatches Enforcement to arrest you for heresy. 
   
   
 \*{On the difference between a Calling and a Domain: 
