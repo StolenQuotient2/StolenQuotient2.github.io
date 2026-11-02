@@ -57,6 +57,18 @@ TBD
 
 {This section is for an alternate version of the Bard origin, to be used in Alpha/Beta testing.}
 
-Start with: 8 mana, 4 Focus, the *Silver-Tongued* Talent, the [] ability, and another ability or talent of your choice. 
+Start with: 8 mana, 4 Focus, the *Quickshot* Talent, the Snap Off ability, and another ability or talent of your choice. 
 
-- **SPARK1 (Starting Ability):** Your magic flashes into existence 
+- **Snap Off (Starting Ability):** Your magic flashes into existence in sudden and spectacular displays. When casting spells, ignore the *Snap* and *Extend* augments when calculating cost and potency (abilities such as Quickshot (Talent) still function). You can only cast spells with instantaneous effects, or effects that last for the round. Whenever you take an action that is performed quickly or recklessly, you may spend 1 Focus to gain 1 Fate. 
+  
+- **Cascade**: When you cast a spell that succeeds on its action by 2 or more, you may cast the spell again as a 1AP Swift Action on the next round. 
+
+- **Arpeggiate:** When you cast a spell, you may cast another spell, as long as you can pay the mana cost for both. Casting spells in this way causes them to fire off in sequence, rather than all at once. 
+
+- **Shine Bright (formerly: Name Drop):** You've developed a reputation for your style of spellcasting, both in the types of spells you choose and the way you carry yourself while casting. When you cast a spell in a populated area, you are likely to find people who recognize you from your spellcasting, and who will offer you information for the low cost of talking about your magic with them for a few minutes. Moreover, during Recess, gain beats equal to the number of Spark abilities you have; these beats can only be spent to gather information from people, or to put yourself in contact with magical parties. 
+
+- **Inspire (formerly Pull Some Strings):** You have found a faint magical connection between yourself and those of your closest allies. When you participate in an Entwined action with a member of your party, up to one person of your choice may reroll their Whim roll before applying Fate. This effect allows for multiple rerolls, even if a player has a Talent that already grants them a reroll.  
+
+- **Fission**: When you remove a Condition from an ally, that ally gains 2 mana for each level of the removed Condition. 
+
+- **Fuse**: You may cast Extreme spells as 3AP Swift Actions. If you do, they activate on the *following* round.
