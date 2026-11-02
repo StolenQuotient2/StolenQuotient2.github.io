@@ -49,3 +49,14 @@ TBD
 ### Techniques that include Bard:
 
 TBD
+
+
+---
+
+## Spark (Bard B-Side)
+
+{This section is for an alternate version of the Bard origin, to be used in Alpha/Beta testing.}
+
+Start with: 8 mana, 4 Focus, the *Silver-Tongued* Talent, the [] ability, and another ability or talent of your choice. 
+
+- **SPARK1 (Starting Ability):** Your magic flashes into existence 
