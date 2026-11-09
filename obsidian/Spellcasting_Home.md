@@ -21,11 +21,13 @@ In order to cast a spell, you must have the following:
 
 A Somatic component is a physical motion you make, almost always with your hands or arms. An Audible component is a sound, but it need not be a set of spoken words. Having sufficient mana depends on the spell being cast, and will be the subject of the rest of this section. 
 
-In addition, a spell cannot be cast if it violates the rules of [The Veil]({% link obsidian/The_Veil.md %}). 
+In addition, a spell cannot be cast if it violates the rules of [The Veil]({% link obsidian/The_Veil.md %}). In general, only extremely world-warping effects are restricted by the Veil. 
 
 ## Mana Cost, Augments, and Potency.
 
-Every spell costs 2 mana at base, and must cost at least 1 mana after all modifications from all sources. This number is increased for each *Augment* that you apply. When you apply an Augment, increase the cost of the spell by 2. Furthermore, each of the 8 Augments is paired up (visually, they are in the same row of the table below). If you apply both augments in a row, double the mana cost of the spell. 
+Every spell costs 2 mana at base, and must cost at least 1 mana after all modifications from all sources. This number is increased for each *Augment* that you apply. The first augment increase the mana cost by +1. The second augment by +2, the third by +3, etc. Each time you augment both augments in the same row (see below), double the final cost of the spell. 
+
+{(OLD: ~~When you apply an Augment, increase the cost of the spell by 2. Furthermore, each of the 8 Augments is paired up (visually, they are in the same row of the table below). If you apply both augments in a row, double the mana cost of the spell.~~)}
 
 Each augment is indicated to either *Diminish* or *Amplify* the spell. A spell is determined to be Minor, Major or Extreme based on if it has more Diminishes overall or more Amplifications overall. A spell with more Diminishes is Minor. A spell with more Amplifications is Extreme. A spell with a balanced amount is Major. 
 
