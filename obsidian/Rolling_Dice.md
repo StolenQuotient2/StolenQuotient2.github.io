@@ -28,9 +28,10 @@ If you score at least equal to the difficulty of the action, you succeed in the 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
 ### ***Fate*** 
-Starting fate calculation: +1 if allies are assisting, +1 for any effects influencing your personal abilities in regards to the current action
+Starting fate calculation: +1 if allies are assisting, +1 for any effects influencing your personal abilities in regards to the current action. -1 For any [Condition]({% link obsidian/Conditions.md %}) that is impacting your ability to perform
 ### ***Difficulty*** 
 Easy actions have difficulty 2. Standard 3. Hard 4. Difficulty 1 and 5 should basically never exist, but 5 might be used for extremely strong enemies
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
 <!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
 
