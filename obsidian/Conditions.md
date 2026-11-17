@@ -37,3 +37,9 @@ E.g. You may be tied with multiple ropes. This condition may be Restrained (Leve
 Injuries are a special kind of condition that are, well, injuries. Injuries cannot typically be removed during the course of a normal situation. They require time and precise care to be removed--removing an Injury during an encounter requires the Medical/Medicinal/{Whatever its called} Talent. Most injuries are cleared during Recess, where the level of an injury you have is reduced by 1 passively, but can be reduced further using Measures. 
 
 Injuries can also be Severe. Severe injuries, like any severe condition, take an additional instance of reduction to fully heal. Remove the "Severe" status before any level reductions. In addition,  Severe injuries cannot be healed during a Situation, even by someone with Medical talent. They must be addressed during Free play/Recess. 
+
+### Shock, Trauma, and Death. 
+
+When a player receives 6 or more total levels of Conditions, they are removed from play. They are still narratively in the current Situation, but cannot take actions. In addition, depending on the number of Injuries that player had taken, the character suffers one of the three: Shock, Trauma, or Death. 
+
+{Shock: Didnt have any significant number of injuries. Trauma: Had some injuries, didn't trauma out due to an injury. Death: had injuries, and trauma-ed out due to an injury.}
