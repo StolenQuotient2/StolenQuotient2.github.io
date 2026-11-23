@@ -24,6 +24,6 @@ Then make a Whim roll and apply fate. If you score between 2 and 4, nothing happ
 	
 When you resurrect a target, you may spend 1 Focus each for the following effects:
 
-- The target revives with all injuries healed (rather than the injuries that they had before they went unconscious)  
+- The target revives with all of their [Conditions]({% link obsidian/Conditions.md %}) removed (they keep any Traumas they had). 
 - The target revives with all mana restored  
 - The target revives with a third of their maximum Focus (rounded up) restored

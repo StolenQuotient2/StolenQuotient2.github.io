@@ -42,4 +42,23 @@ Injuries can also be Severe. Severe injuries, like any severe condition, take an
 
 When a player receives 6 or more total levels of Conditions, they are removed from play. They are still narratively in the current Situation, but cannot take actions. In addition, depending on the number of Injuries that player had taken, the character suffers one of the three: Shock, Trauma, or Death. 
 
-{Shock: Didnt have any significant number of injuries. Trauma: Had some injuries, didn't trauma out due to an injury. Death: had injuries, and trauma-ed out due to an injury.}
+Note: if you have Shock, you can still experience Trauma. If you experience Trauma, you can still experience Death. These are ascending levels of severity. 
+
+### *Shock*
+
+If you take 6 or more levels of Conditions, and your most recent condition was not an Injury, you experience *Shock*. Your character cannot act until they have been completely cleared of conditions. Often this will involve getting to Recess, and handling those conditions then. While experiencing Shock, you can continue to accrue conditions. You cannot act until those conditions have been removed as well. 
+
+{Remark: I (Sam) may apply the condition Shock (Level 6) as a way to force someone out of play in particularly emotionally traumatic situations. This is a testing condition, but you've now been warned.}
+
+### *Trauma*
+
+If you take 6 or more levels of Conditions, and your most recent condition was an Injury, you experience *Trauma*. Trauma inflicts all the conditions of Shock--you cannot act until you clear all of your conditions. Moreover, the most recent injury you've taken compounds with your current injuries to result in a *permanent* disability of your character. Work with your GM to describe the nature of the Trauma you experience; it can be either physical or mental. Similar to a Condition, anytime your Trauma might cause you to struggle in an action you are taking, take a -1 to your roll. Your Trauma stays with you for the rest of your campaign. 
+
+Each time you take an injury while experiencing Shock or Trauma, 
+
+### *Death* 
+
+If you have 6 or more levels of Conditions, and 4 or more levels of them are Injuries, you experience *Death*. Your character dies. Their body remains in place, and their soul passes to the World Beyond Death. You cannot act while dead. You remain dead until a [Resurrection]({% link obsidian/Death_and_Resurrection.md %}) is performed, or forever. 
+
+When a player dies, each other member of the party that witnessed the person die takes a Level 3 Severe condition. A member of the party who learns about the death in any other way takes a Level 2 Severe condition. This condition represents the cognitive impairment from losing a friend. 
+{Hey, remember when this was the friendship is magic game? Yeah, me too.}
