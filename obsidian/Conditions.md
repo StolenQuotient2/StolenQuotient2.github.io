@@ -54,7 +54,7 @@ If you take 6 or more levels of Conditions, and your most recent condition was n
 
 If you take 6 or more levels of Conditions, and your most recent condition was an Injury, you experience *Trauma*. Trauma inflicts all the conditions of Shock--you cannot act until you clear all of your conditions. Moreover, the most recent injury you've taken compounds with your current injuries to result in a *permanent* disability of your character. Work with your GM to describe the nature of the Trauma you experience; it can be either physical or mental. Similar to a Condition, anytime your Trauma might cause you to struggle in an action you are taking, take a -1 to your roll. Your Trauma stays with you for the rest of your campaign. 
 
-Each time you take an injury while experiencing Shock or Trauma, 
+Each time you take an injury while experiencing Shock or Trauma, you may experience Trauma again, up until you experience Death. (So, up to a total of 4 Traumas per trauma.)
 
 ### *Death* 
 
