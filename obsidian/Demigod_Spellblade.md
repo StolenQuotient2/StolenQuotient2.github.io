@@ -4,9 +4,18 @@ title: Obliterator
 layout: misfits
 mess_we_made: mess we made
 ---
-<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+## Skybreaker (Demigod + Spellblade)
 
-<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+- **Skybreaker (Starting Ability):** When you take Skybreaker, gain the Implicit Divinity (Demigod) and Blood Circle (Spellblade) abilities if you do not have them already. Additionally, gain the What Goes Up... (Skybreaker) ability. 
+
+
+- **What Goes Up...:** As a 1AP Swift action, you may *Launch* by creating tight impulses of divine mana. When you take the Launch action, you jump extraordinarily high into the air--hundreds of feet. After jumping, you must either immediately take an action, or spend 2 mana to hang in the air for a round, after which you must take an action. In either case, you plummet back to earth as part of taking this action (though it can happen either before or after you land). You do not take injuries from falling from heights in this way. When you make attacks in this way, injuries you inflict are Severe. Furthermore, any action you take from the air is harder to interrupt--you're too far away to target or anticipate easily. If you do not or cannot take an action, you land back at the point you launched from on the next round, and take an injury (with level up to GM discretion). 
+
+- **Storms Reach:** While casting a spell after using *Launch*, you may have the spell originate from anywhere you could conceivably land. You do not have to land at that point afterwards. This bypasses the restriction from Blood Circle (Spellblade). 
+
+- **Bolt:** You are exceptionally quick on your feet, and are able to avoid danger and obstacles using your speed. Any time you would take a Standard action that would cost 1AP due to experting yourself for nonmagical movement, you may spend 2 mana to perform that action as a 0AP Swift action instead. Moreover, you may use Launch at any time, even to dodge attacks. You still pay the AP cost for doing so, and must still take an action immediately after Launching. 
+
+
  
  Skybreaker(demigod+spellblade) so named after the mythical spear of the technique’s inventor. Master: Maeve Suggested domains: gravity, storms 
 
@@ -18,4 +27,9 @@ Storm’s Reach: augment your spellblade Blood Circle. When making an attack aft
 
 Elusive Jump: If you would suffer consequences contingent on hitting you physically or your presence in an area of effect, you can spend 1 focus to immediately jump out of them, avoiding the consequences altogether. You can use this jump to reposition yourself to any potential nearby vantage points, but you land without the ability to take airborne actions. You still need to pay the ap to jump, and you still need the room to jump. 
 
-Gliding Ascent: augment your arclunge ability. When activating arclunge as part of an airbone attack, instead of a plunging attack, your angle of attack can be omnidirectional. Optionally pay 1 focus afterwards to remain airborne; this effect lasts until you take an action without activating arclunge. prerequisite: arclunge. %%
+Gliding Ascent: augment your arclunge ability. When activating arclunge as part of an airbone attack, instead of a plunging attack, your angle of attack can be omnidirectional. Optionally pay 1 focus afterwards to remain airborne; this effect lasts until you take an action without activating arclunge. prerequisite: arclunge. 
+
+
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
+
+<!-- OBSIDIAN COMMENT THAT HAS BEEN REMOVED -->
