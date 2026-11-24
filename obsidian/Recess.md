@@ -16,14 +16,14 @@ After an encounter ends, the party can choose to take Recess, and if so, for how
 | Up to a month       | 24                      |
 | Longer than a month | See \[Extended Recess\] |
 
-Regardless of the length of Recess, the first thing every character does each Recess is lower their injury level by 1, remove the Severely Injured status, restore all of their mana, and restore 1 Focus. Additional restoration requires the use of Measures. 
+Regardless of the length of Recess, the first thing every character does each Recess is reduce the level of a Condition by 1, restore all of their mana, and restore 1 Focus. Additional restoration requires the use of Measures. 
 
 ## **Measures** 
 
 **Rest**  
-Costs 2 Beats. The player taking Rest reduces their injury level by 1\.  
+Costs 2 Beats. The player taking Rest reduces a Condition by 1 level\.  
 **Recover**  
-Costs 4 Beats. The player taking Recover resets their injury level to None.    
+Costs 4 Beats. The player taking Recover removes a (non-severe) condition.    
 **Breathe**  
 Costs 1 Beat. The player taking Breathe restores all mana.   
 **Center**  
